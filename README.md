@@ -2,6 +2,8 @@
 
 LUISS "Guido Carli" ha permesso a noi studenti, relativamente alle GAP2 Activities, di collaborare con l'organizzazione LIBERA per un Progetto di data visualization relativamente ai beni confiscate alle mafie. Ci sono stati forniti alcuni dataset, e la loro visualizzazione è stata effettuata in Python con una dashboard (streamlit library). Il lavoro ha prima visto una fase di pulizia dei dataset e successiva visualizzazione dei dati.
 
+Il file dashboardlibera.py contiene lo script della dashboard. Per la visualizzazione della dashboard è sufficiente runnare il file nel terminal in seguito al download della repository.
+
 # Dashboard di Analisi dei Beni Confiscati alle Mafie
 
 ## Pagine della Dashboard
