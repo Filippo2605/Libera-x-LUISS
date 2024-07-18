@@ -1,0 +1,188 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dcatapit": "http://dati.gov.it/onto/dcatapit#",
+    "datapath": "dsbase:resource/",
+    "dct": "http://purl.org/dc/terms/",
+    "filetype": "http://publications.europa.eu/resource/authority/file-type/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "dataset": "dcat:dataset",
+    "keyword": "dcat:keyword",
+    "theme": "dcat:theme",
+    "accrualPeriodicity": "dct:accrualPeriodicity",
+    "distribution": "dcat:distribution",
+    "creator": "dct:creator",
+    "description": "dct:description",
+    "format": "dct:format",
+    "identifier": "dct:identifier",
+    "language": "dct:language",
+    "license": "dct:license",
+    "publisher": "dct:publisher",
+    "rightsHolder": "dct:rightsHolder",
+    "title": "dct:title",
+    "homepage": "foaf:homepage",
+    "name": "foaf:name",
+    "accessURL": "dcat:accessURL",
+    "issued": "dct:issued",
+    "modified": "dct:modified"
+  },
+  "@graph": [
+    {
+      "@id": "datapath:opendata-aziendeconfiscate-catalog.json",
+      "@type": [
+        "dcat:Catalog",
+        "dcatapit:Catalog"
+      ],
+      "title": {
+        "@language": "it"
+      },
+      "description": {
+        "@language": "it"
+      },
+      "publisher": {},
+      "issued": {
+        "@type": "xsd:date",
+        "@value": "2024-04-01"
+      },
+      "dataset": [
+        {
+          "@id": "#Aziende-Confiscate-ANBSC"
+        },
+        {
+          "@id": "#Aziende-Confiscate-UICCIAA"
+        }
+      ],
+      "homepage": {
+        "@id": "dsbase:home/"
+      }
+    },
+    {
+      "@id": "#Aziende-Confiscate-ANBSC",
+      "@type": [
+        "dcat:Dataset",
+        "dcatapit:Dataset"
+      ],
+      "identifier": "anla_080:D.1",
+      "title": {
+        "@language": "it",
+        "@value": "Stato amministrativo ANBSC"
+      },
+      "description": {
+        "@language": "it",
+        "@value": "Il dataset contiene i dati inerenti lo stato amministrativo delle aziende in confisca definitiva, ovvero la suddivisione delle imprese in base allo stato dell'azione in corso di amministrazione da parte dell'Agenzia"
+      },
+      "modified": {
+        "@type": "xsd:date",
+        "@value": "2024-04-01"
+      },
+      "theme": {
+        "@id": "http://publications.europa.eu/resource/authority/fd_300/003959"
+      },
+      "rightsHolder": {
+        "@id": "#ANBSC"
+      },
+      "accrualPeriodicity": {
+        "@id": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+      },
+      "distribution": {
+        "@id": "#Aziende-Confiscate-ANBSC-JSONLD"
+      }
+    },
+    {
+      "@id": "#Aziende-Confiscate-UICCIAA",
+      "@type": [
+        "dcat:Dataset",
+        "dcatapit:Dataset"
+      ],
+      "identifier": "UICCIAA:D.1",
+      "title": {
+        "@language": "it",
+        "@value": "Aziende in Confisca Definitiva"
+      },
+      "description": {
+        "@language": "it",
+        "@value": "Il dataset contiene i dati iscritti nel Registro delle Imprese, costituenti le caratteristiche delle stesse, relativi le Aziende in Confisca Definitiva"
+      },
+      "modified": {
+        "@type": "xsd:date",
+        "@value": "2024-04-01"
+      },
+      "theme": {
+        "@id": "http://publications.europa.eu/resource/authority/fd_300/003959"
+      },
+      "rightsHolder": {
+        "@id": "#UICCIAA"
+      },
+      "accrualPeriodicity": {
+        "@id": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+      },
+      "distribution": {
+        "@id": "#Aziende-Confiscate-UICCIAA-JSONLD"
+      }
+    },
+    {
+      "@id": "#Aziende-Confiscate-ANBSC-JSONLD",
+      "@type": [
+        "dcat:Distribution",
+        "dcatapit:Distribution"
+      ],
+      "format": {
+        "@id": "filetype:JSON"
+      },
+      "accessURL": {
+        "@id": "datapath:aziende-confiscate-anbsc.json"
+      },
+      "rightsHolder": {
+        "@id": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "description": {
+        "@language": "it",
+        "@value": "Dati inerenti lo stato amministrativo delle imprese in confisca definitiva di competenza dell'ANBSC"
+      }
+    },
+    {
+      "@id": "#Aziende-Confiscate-UICCIAA-JSONLD",
+      "@type": [
+        "dcat:Distribution",
+        "dcatapit:Distribution"
+      ],
+      "format": {
+        "@id": "filetype:JSON"
+      },
+      "accessURL": {
+        "@id": "datapath:aziende-confiscate-unioncamere.json"
+      },
+      "rightsHolder": {
+        "@id": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "description": {
+        "@language": "it",
+        "@value": "Attività prevalente (Ateco), stato di attività, tipologia e sede legale delle imprese in Confisca Definitiva in gestione all&#39;ANBSC"
+      }
+    },
+    {
+      "@id": "#ANBSC",
+      "@type": [
+        "foaf:Agent",
+        "dcatapit:Agent"
+      ],
+      "identifier": "ANBSC",
+      "name": {
+        "@language": "it",
+        "@value": "Agenzia Nazionale per L'Amministrazione e La Destinazione Dei Beni Sequestrati e Confiscati alla Criminalita' Organizzata"
+      }
+    },
+    {
+      "@id": "#UICCIAA",
+      "@type": [
+        "foaf:Agent",
+        "dcatapit:Agent"
+      ],
+      "identifier": "Unioncamere",
+      "name": {
+        "@language": "it",
+        "@value": "Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
+      }
+    }
+  ]
+}

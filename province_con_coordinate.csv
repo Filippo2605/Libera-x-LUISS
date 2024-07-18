@@ -1,0 +1,970 @@
+Comune,Provincia,Regione,Elenco pubblicato?,Numero beni trasferiti da Openregio,"Data di pubblicazione, se disponibile",Formato di pubblicazione,"Sono indicati foglio, particella e subpartice","Tipologia dell'immobile È indicato, per ogni bene, se si tratta di un terreno, una villa, un appartamento, un box, un fabbricato rurale ecc.?",Ubicazione È indicato l'indirizzo e il numero civico di ogni bene?, È indicata la consistenza del bene in mq o in ettari?,È specificata quale sia la destinazione del bene tra istituzionale e sociale?,Utilizzazione 1 - È specificato se il bene è già riutilizzato?,Utilizzazione 2 - È indicato l'utilizzo specifico?,È indicata la ragione sociale specifica del soggetto gestore?, È inserito un riferimento all'atto amministrativo di concessione?,È indicato l'oggetto dell'atto di concessione?, È specificata la durata dell'affidamento al concessionario?, Nome Province,Provincia Estesa,Latitudine Provincia,Longitudine Provincia
+ANVERSA DEGLI ABRUZZI,AQ,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+AVEZZANO,AQ,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+CASTEL DI SANGRO,AQ,Abruzzo,si,1,2017-05-18,Pdf - Immagine,si,si,si,no,si,si,si,no,si,si,si,AQ,L'Aquila,42.35,13.4
+OVINDOLI,AQ,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+PESCASSEROLI,AQ,Abruzzo,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+PESCOCOSTANZO,AQ,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+RIVISONDOLI,AQ,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+SCURCOLA MARSICANA,AQ,Abruzzo,si,3,2020-03-09,,si,si,si,si,no,si,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+TAGLIACOZZO,AQ,Abruzzo,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AQ,L'Aquila,42.35,13.4
+FRISA,CH,Abruzzo,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+LANCIANO,CH,Abruzzo,si,5,2019-12-17,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,si,si,CH,Chieti,42.35,14.1667
+PIZZOFERRATO,CH,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+SAN GIOVANNI TEATINO,CH,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+SAN VITO CHIETINO,CH,Abruzzo,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+SANTA MARIA IMBARO,CH,Abruzzo,no,5,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+VASTO,CH,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CH,Chieti,42.35,14.1667
+MONTESILVANO,PE,Abruzzo,si,7,2018-12-01,Pdf - Ricercabile,si,si,si,no,si,si,no,si,si,si,no,PE,Pescara,42.45,14.2167
+PESCARA,PE,Abruzzo,si,30,2020-07-08,Pdf - Ricercabile,si,si,si,si,no,si,no,no,no,no,no,PE,Pescara,42.45,14.2167
+TORRE DE' PASSERI,PE,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PE,Pescara,42.45,14.2167
+ALBA ADRIATICA,TE,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+BASCIANO,TE,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+CAMPLI,TE,Abruzzo,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+CANZANO,TE,Abruzzo,no,7,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+CASTELLALTO,TE,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+MARTINSICURO,TE,Abruzzo,no,6,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+MOSCIANO SANT'ANGELO,TE,Abruzzo,no,4,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+ROSETO DEGLI ABRUZZI,TE,Abruzzo,si,1,,Pdf - Immagine,si,no,si,no,si,si,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+SILVI,TE,Abruzzo,si,4,2018-12-05,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+TERAMO,TE,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+TORTORETO,TE,Abruzzo,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TE,Teramo,42.6667,13.7167
+MATERA,MT,Basilicata,si,6,,Csv,no,si,si,no,si,no,no,no,si,si,si,MT,Matera,40.6833,16.6
+PALAZZO SAN GERVASIO,PZ,Basilicata,no,3,,,no,no,no,no,no,no,no,no,no,no,no,PZ,Potenza,40.6333,15.8167
+POTENZA,PZ,Basilicata,si,2,2017-12-01,Pdf - Ricercabile,si,si,si,si,no,no,si,no,no,no,no,PZ,Potenza,40.6333,15.8167
+ALTOMONTE,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+AMANTEA,CS,Calabria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+BELMONTE CALABRO,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+BELVEDERE MARITTIMO,CS,Calabria,no,20,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+CARIATI,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+CASSANO ALL'IONIO,CS,Calabria,si,51,,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,no,si,CS,Cosenza,39.2833,16.25
+CASTROVILLARI,CS,Calabria,si,3,2017-05-25,Pdf - Ricercabile,si,si,si,si,no,no,no,si,si,no,no,CS,Cosenza,39.2833,16.25
+COSENZA,CS,Calabria,si,8,2019-07-22,Pdf - Ricercabile,si,si,si,si,no,no,no,no,si,si,si,CS,Cosenza,39.2833,16.25
+DIAMANTE,CS,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+FIUMEFREDDO BRUZIO,CS,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+FUSCALDO,CS,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+MARANO PRINCIPATO,CS,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+MENDICINO,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+RENDE,CS,Calabria,si,8,,Immagine,si,si,si,no,si,no,si,no,si,no,no,CS,Cosenza,39.2833,16.25
+ROSETO CAPO SPULICO,CS,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+SAN FILI,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+SAN NICOLA ARCELLA,CS,Calabria,no,47,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+SANTA MARIA DEL CEDRO,CS,Calabria,si,5,2017-12-01,Pdf - Ricercabile,si,si,no,no,no,no,si,no,si,si,no,CS,Cosenza,39.2833,16.25
+SCALEA,CS,Calabria,no,30,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+TREBISACCE,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+VILLAPIANA,CS,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CS,Cosenza,39.2833,16.25
+BOTRICELLO,CZ,Calabria,no,11,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+CATANZARO,CZ,Calabria,si,22,2019-03-05,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,si,no,CZ,Catanzaro,38.9,16.5833
+CONFLENTI,CZ,Calabria,si,3,2019-11-13,Pdf - Ricercabile,no,si,si,no,si,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+CROPANI,CZ,Calabria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+CURINGA,CZ,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+DAVOLI,CZ,Calabria,si,2,,Immagine,si,si,no,no,si,no,no,no,si,no,no,CZ,Catanzaro,38.9,16.5833
+GUARDAVALLE,CZ,Calabria,no,5,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+LAMEZIA TERME,CZ,Calabria,si,212,2020-09-19,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,no,si,CZ,Catanzaro,38.9,16.5833
+MAGISANO,CZ,Calabria,no,31,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+MAIDA,CZ,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+NOCERA TERINESE,CZ,Calabria,no,16,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+SAN SOSTENE,CZ,Calabria,si,3,2019-07-30,Immagine,si,si,si,no,si,no,no,no,si,no,no,CZ,Catanzaro,38.9,16.5833
+SATRIANO,CZ,Calabria,no,12,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+SELLIA MARINA,CZ,Calabria,si,4,,Tabella online non scaricabile,si,si,si,no,si,si,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+SIMERI CRICHI,CZ,Calabria,no,6,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+SOVERATO,CZ,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+TAVERNA,CZ,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CZ,Catanzaro,38.9,16.5833
+COTRONEI,KR,Calabria,si,1,2018-04-27,Xls,si,si,si,si,no,si,no,no,no,no,no,KR,Crotone,39.0833,17.1333
+CROTONE,KR,Calabria,si,18,2017-10-01,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,no,no,KR,Crotone,39.0833,17.1333
+CRUCOLI,KR,Calabria,si,9,2018-08-21,Pdf - Ricercabile,si,si,si,no,si,no,no,si,si,no,si,KR,Crotone,39.0833,17.1333
+CUTRO,KR,Calabria,si,7,2018-10-16,Immagine,si,si,si,si,no,si,si,no,no,no,no,KR,Crotone,39.0833,17.1333
+ISOLA DI CAPO RIZZUTO,KR,Calabria,si,33,2019-09-30,Pdf - Ricercabile,si,si,si,si,no,no,si,si,no,no,si,KR,Crotone,39.0833,17.1333
+MELISSA,KR,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,KR,Crotone,39.0833,17.1333
+PETILIA POLICASTRO,KR,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,KR,Crotone,39.0833,17.1333
+SANTA SEVERINA,KR,Calabria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,KR,Crotone,39.0833,17.1333
+STRONGOLI,KR,Calabria,si,2,,Immagine,si,si,si,si,no,no,no,no,no,no,no,KR,Crotone,39.0833,17.1333
+AFRICO,RC,Calabria,si,26,2016-12-20,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+ANOIA,RC,Calabria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+ARDORE,RC,Calabria,si,4,2018-07-01,Pdf - Ricercabile,no,no,no,si,si,no,si,no,si,no,no,RC,Reggio di Calabria,38.1,15.65
+BAGNARA CALABRA,RC,Calabria,si,7,2016-03-24,Immagine,si,si,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+BENESTARE,RC,Calabria,no,20,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+BIANCO,RC,Calabria,no,27,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+BOVA MARINA,RC,Calabria,si,14,,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,no,no,RC,Reggio di Calabria,38.1,15.65
+BOVALINO,RC,Calabria,si,41,,Immagine,si,si,si,si,si,no,si,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+BRANCALEONE,RC,Calabria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+BRUZZANO ZEFFIRIO,RC,Calabria,si,2,2011-04-26,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CAMINI,RC,Calabria,si,1,,Immagine,si,si,si,si,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CAMPO CALABRO,RC,Calabria,si,10,2019-01-31,Immagine,si,si,no,si,si,no,si,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+CANDIDONI,RC,Calabria,no,20,,,si,si,si,no,si,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CANOLO,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CARAFFA DEL BIANCO,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CARDETO,RC,Calabria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CARERI,RC,Calabria,si,5,2013-03-09,Immagine,si,si,si,si,si,no,no,no,si,no,no,RC,Reggio di Calabria,38.1,15.65
+CASIGNANA,RC,Calabria,no,9,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CAULONIA,RC,Calabria,si,12,2019-02-08,Immagine,si,si,si,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CINQUEFRONDI,RC,Calabria,no,38,,,no,si,si,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CITTANOVA,RC,Calabria,no,25,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+CONDOFURI,RC,Calabria,si,9,,Tabella online non scaricabile,si,si,si,si,si,no,no,si,si,si,si,RC,Reggio di Calabria,38.1,15.65
+FERRUZZANO,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+FIUMARA,RC,Calabria,no,13,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+GALATRO,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+GIFFONE,RC,Calabria,no,53,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+GIOIA TAURO,RC,Calabria,si,110,,Immagine,si,si,si,si,si,si,no,si,si,no,no,RC,Reggio di Calabria,38.1,15.65
+GIOIOSA IONICA,RC,Calabria,si,61,2020-09-19,Pdf - Ricercabile,si,si,no,si,si,si,si,no,si,no,no,RC,Reggio di Calabria,38.1,15.65
+GROTTERIA,RC,Calabria,no,23,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+LAUREANA DI BORRELLO,RC,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+LOCRI,RC,Calabria,no,48,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MARINA DI GIOIOSA IONICA,RC,Calabria,si,74,2020-09-22,Pdf - Ricercabile,no,si,si,no,si,si,si,no,si,si,no,RC,Reggio di Calabria,38.1,15.65
+MAROPATI,RC,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MELICUCCO,RC,Calabria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MELITO DI PORTO SALVO,RC,Calabria,no,52,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MOLOCHIO,RC,Calabria,no,39,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MONASTERACE,RC,Calabria,no,6,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+MOTTA SAN GIOVANNI,RC,Calabria,si,12,2018-05-03,Immagine,si,si,si,si,si,si,no,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+OPPIDO MAMERTINA,RC,Calabria,no,103,,,no,si,si,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+PALIZZI,RC,Calabria,no,6,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+PALMI,RC,Calabria,si,45,2018-08-20,Pdf - Ricercabile,si,si,si,no,si,no,si,si,si,no,no,RC,Reggio di Calabria,38.1,15.65
+POLISTENA,RC,Calabria,no,20,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+REGGIO DI CALABRIA,RC,Calabria,si,487,,Tabella online non scaricabile,si,si,si,si,si,si,si,no,si,si,no,RC,Reggio di Calabria,38.1,15.65
+RIACE,RC,Calabria,no,24,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+RIZZICONI,RC,Calabria,si,50,2015-03-11,Pdf - Ricercabile,no,si,si,si,no,no,si,no,si,si,si,RC,Reggio di Calabria,38.1,15.65
+ROCCELLA IONICA,RC,Calabria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+ROGHUDI,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+ROSARNO,RC,Calabria,si,116,2020-08-17,Pdf - Ricercabile,si,si,si,no,no,si,si,si,si,no,no,RC,Reggio di Calabria,38.1,15.65
+SAN FERDINANDO,RC,Calabria,si,20,,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,si,si,RC,Reggio di Calabria,38.1,15.65
+SAN LORENZO,RC,Calabria,si,12,2018-12-20,Pdf - Ricercabile,si,si,si,si,no,si,no,no,si,no,no,RC,Reggio di Calabria,38.1,15.65
+SAN LUCA,RC,Calabria,si,4,2014-05-01,Pdf - Ricercabile,si,si,no,si,si,no,si,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+SAN PROCOPIO,RC,Calabria,no,14,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SAN ROBERTO,RC,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SANT'ALESSIO IN ASPROMONTE,RC,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SANT'EUFEMIA D'ASPROMONTE,RC,Calabria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SANT'ILARIO DELLO IONIO,RC,Calabria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SANTO STEFANO IN ASPROMONTE,RC,Calabria,si,16,,Pdf - Ricercabile,si,si,si,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SEMINARA,RC,Calabria,no,40,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+SIDERNO,RC,Calabria,si,94,2020-09-24,Pdf - Ricercabile,si,si,si,no,si,no,si,si,si,no,no,RC,Reggio di Calabria,38.1,15.65
+SINOPOLI,RC,Calabria,si,50,2015-01-18,Xml,si,si,si,si,si,no,no,si,si,no,si,RC,Reggio di Calabria,38.1,15.65
+STIGNANO,RC,Calabria,no,12,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+STILO,RC,Calabria,si,19,2018-01-01,Pdf - Ricercabile,si,si,no,si,si,si,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+TAURIANOVA,RC,Calabria,si,34,2019-01-01,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,si,no,RC,Reggio di Calabria,38.1,15.65
+TERRANOVA SAPPO MINULIO,RC,Calabria,no,5,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+VARAPODIO,RC,Calabria,no,24,,,no,no,no,no,no,no,no,no,no,no,no,RC,Reggio di Calabria,38.1,15.65
+VILLA SAN GIOVANNI,RC,Calabria,si,29,2019-07-16,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,si,no,RC,Reggio di Calabria,38.1,15.65
+BRIATICO,VV,Calabria,no,7,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+DINAMI,VV,Calabria,no,5,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+DRAPIA,VV,Calabria,si,2,,Pdf - Ricercabile,si,si,si,no,si,no,no,no,si,no,no,VV,Vibo Valentia,38.6667,16.01
+FILANDARI,VV,Calabria,no,3,,,si,si,si,si,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+LIMBADI,VV,Calabria,si,12,2018-07-01,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,si,no,VV,Vibo Valentia,38.6667,16.01
+MILETO,VV,Calabria,no,6,,,si,si,si,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+NICOTERA,VV,Calabria,no,20,,,si,si,si,si,si,no,si,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+PARGHELIA,VV,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+RICADI,VV,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+ROMBIOLO,VV,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+SAN CALOGERO,VV,Calabria,no,13,,,si,si,si,si,no,no,si,si,no,no,no,VV,Vibo Valentia,38.6667,16.01
+SAN GREGORIO D'IPPONA,VV,Calabria,no,6,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+SERRA SAN BRUNO,VV,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+SORIANO CALABRO,VV,Calabria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+TROPEA,VV,Calabria,no,15,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+VIBO VALENTIA,VV,Calabria,si,19,2017-08-07,Pdf - Ricercabile,si,si,si,no,si,no,si,si,si,no,si,VV,Vibo Valentia,38.6667,16.01
+ZACCANOPOLI,VV,Calabria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+ZAMBRONE,VV,Calabria,no,11,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+ZUNGRI,VV,Calabria,no,6,,,no,no,no,no,no,no,no,no,no,no,no,VV,Vibo Valentia,38.6667,16.01
+AVELLA,AV,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+CONTRADA,AV,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+MONTEFORTE IRPINO,AV,Campania,no,16,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+QUINDICI,AV,Campania,no,9,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+SAN MARTINO VALLE CAUDINA,AV,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+SANT'ANGELO A SCALA,AV,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+SANTO STEFANO DEL SOLE,AV,Campania,si,2,,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,no,no,AV,Avellino,40.9167,14.7833
+SUMMONTE,AV,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+TAURASI,AV,Campania,no,25,,,no,no,no,no,no,no,no,no,no,no,no,AV,Avellino,40.9167,14.7833
+BENEVENTO,BN,Campania,si,5,2021-01-25,Pdf - Immagine,si,si,si,si,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+CAMPOLI DEL MONTE TABURNO,BN,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+CASTELVENERE,BN,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+CAUTANO,BN,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+DUGENTA,BN,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+MELIZZANO,BN,Campania,no,7,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+SOLOPACA,BN,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BN,Benevento,41.1333,14.7667
+ARIENZO,CE,Campania,si,4,,Pdf - Immagine,si,si,si,no,si,si,si,si,si,no,no,CE,Caserta,41.0667,14.3167
+AVERSA,CE,Campania,si,12,,Pdf - Immagine,si,no,si,si,si,si,no,no,si,no,no,CE,Caserta,41.0667,14.3167
+CALVI RISORTA,CE,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CANCELLO ED ARNONE,CE,Campania,si,19,2018-02-23,Xls,si,si,no,si,no,si,si,si,si,no,no,CE,Caserta,41.0667,14.3167
+CAPODRISE,CE,Campania,si,5,,Xml,si,si,si,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CARINARO,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CARINOLA,CE,Campania,no,5,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CASAGIOVE,CE,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CASAL DI PRINCIPE,CE,Campania,si,68,2018-03-30,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,no,no,CE,Caserta,41.0667,14.3167
+CASALUCE,CE,Campania,si,2,2020-09-03,Xls,si,si,si,si,no,si,si,si,no,no,no,CE,Caserta,41.0667,14.3167
+CASAPESENNA,CE,Campania,si,15,,Pdf - Immagine,si,no,si,no,no,si,si,si,no,no,no,CE,Caserta,41.0667,14.3167
+CASAPULLA,CE,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CASERTA,CE,Campania,si,10,2020-06-29,Pdf - Ricercabile,si,si,si,no,no,no,no,si,no,no,no,CE,Caserta,41.0667,14.3167
+CASTEL VOLTURNO,CE,Campania,si,98,2016-02-05,Xls,si,si,si,si,si,si,no,no,si,no,si,CE,Caserta,41.0667,14.3167
+CELLOLE,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+CESA,CE,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+FRIGNANO,CE,Campania,si,10,,Pdf - Immagine,si,si,si,si,si,si,si,no,si,si,no,CE,Caserta,41.0667,14.3167
+GRAZZANISE,CE,Campania,no,8,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+GRICIGNANO DI AVERSA,CE,Campania,si,5,2015-12-23,Xls,no,no,si,si,no,si,si,si,si,no,no,CE,Caserta,41.0667,14.3167
+LUSCIANO,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+MARCIANISE,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+MONDRAGONE,CE,Campania,no,14,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+PARETE,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+PIANA DI MONTE VERNA,CE,Campania,si,1,2015-11-03,Pdf - Immagine,no,si,no,si,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+PIETRAMELARA,CE,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+PIGNATARO MAGGIORE,CE,Campania,no,9,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+PORTICO DI CASERTA,CE,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SAN CIPRIANO D'AVERSA,CE,Campania,no,24,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SAN FELICE A CANCELLO,CE,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SAN MARCELLINO,CE,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SAN TAMMARO,CE,Campania,si,4,,Tabella online non scaricabile,si,si,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SANTA MARIA A VICO,CE,Campania,si,2,2020-09-01,Xls,si,si,si,no,no,no,no,si,si,no,no,CE,Caserta,41.0667,14.3167
+SANTA MARIA CAPUA VETERE,CE,Campania,si,72,2020-10-29,Xml,si,si,si,no,no,si,si,no,si,no,no,CE,Caserta,41.0667,14.3167
+SANTA MARIA LA FOSSA,CE,Campania,no,124,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SANT'ARPINO,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SESSA AURUNCA,CE,Campania,no,15,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+SPARANISE,CE,Campania,no,15,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+TEANO,CE,Campania,si,44,,Tabella online non scaricabile,si,si,no,no,si,si,no,si,si,no,no,CE,Caserta,41.0667,14.3167
+TEVEROLA,CE,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CE,Caserta,41.0667,14.3167
+VILLA DI BRIANO,CE,Campania,si,1,,Pdf - Immagine,si,si,si,si,si,si,si,si,si,si,si,CE,Caserta,41.0667,14.3167
+VILLA LITERNO,CE,Campania,si,6,2016-05-06,Pdf - Ricercabile,si,no,no,no,no,si,no,si,si,no,si,CE,Caserta,41.0667,14.3167
+AGROPOLI,SA,Campania,si,10,,Pdf - Ricercabile,si,si,no,no,si,si,si,si,no,no,si,SA,Salerno,40.6833,14.7667
+ALBANELLA,SA,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+ANGRI,SA,Campania,si,32,,Pdf - Immagine,si,no,si,si,si,si,no,si,no,no,si,SA,Salerno,40.6833,14.7667
+BARONISSI,SA,Campania,si,7,2020-06-30,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,no,no,SA,Salerno,40.6833,14.7667
+BATTIPAGLIA,SA,Campania,si,45,2018-03-30,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,no,no,SA,Salerno,40.6833,14.7667
+CAMPAGNA,SA,Campania,no,10,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+CASTELLABATE,SA,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+CONTURSI TERME,SA,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+EBOLI,SA,Campania,si,23,2020-02-13,Xls,si,si,si,no,no,si,si,si,no,no,no,SA,Salerno,40.6833,14.7667
+FISCIANO,SA,Campania,no,8,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+GIFFONI VALLE PIANA,SA,Campania,no,7,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+MERCATO SAN SEVERINO,SA,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+MONTECORVINO PUGLIANO,SA,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+NOCERA INFERIORE,SA,Campania,no,33,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+OLEVANO SUL TUSCIANO,SA,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+PAGANI,SA,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+PELLEZZANO,SA,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+PONTECAGNANO FAIANO,SA,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+ROCCAPIEMONTE,SA,Campania,no,5,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+SALA CONSILINA,SA,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+SALERNO,SA,Campania,no,11,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+SAN CIPRIANO PICENTINO,SA,Campania,no,7,,,no,no,no,no,no,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+SARNO,SA,Campania,si,84,,Pdf - Ricercabile,si,si,si,si,si,no,no,no,no,no,no,SA,Salerno,40.6833,14.7667
+SCAFATI,SA,Campania,si,17,2016-11-22,Pdf - Immagine,si,si,si,no,no,no,no,no,si,no,no,SA,Salerno,40.6833,14.7667
+BOLOGNA,BO,Emilia Romagna,si,13,,Pdf - Ricercabile,si,si,si,no,no,si,si,si,no,no,no,BO,Bologna,44.5,11.35
+BORGO TOSSIGNANO,BO,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BO,Bologna,44.5,11.35
+GAGGIO MONTANO,BO,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BO,Bologna,44.5,11.35
+IMOLA,BO,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BO,Bologna,44.5,11.35
+PIANORO,BO,Emilia Romagna,no,5,,,no,no,no,no,no,no,no,no,no,no,no,BO,Bologna,44.5,11.35
+PIEVE DI CENTO,BO,Emilia Romagna,si,1,,Pdf - Ricercabile,si,si,si,no,si,si,si,no,si,no,no,BO,Bologna,44.5,11.35
+SAN LAZZARO DI SAVENA,BO,Emilia Romagna,si,2,2020-02-21,Pdf - Ricercabile,no,no,no,si,si,no,no,no,no,no,si,BO,Bologna,44.5,11.35
+ARGENTA,FE,Emilia Romagna,si,3,2020-04-01,Ods,si,si,si,si,no,no,no,no,no,no,no,FE,Ferrara,44.8333,11.6333
+COMACCHIO,FE,Emilia Romagna,si,2,2019-03-29,Pdf - Ricercabile,si,si,si,no,si,si,no,no,no,no,no,FE,Ferrara,44.8333,11.6333
+FERRARA,FE,Emilia Romagna,si,4,,Xml,si,si,si,si,si,si,si,si,si,si,si,FE,Ferrara,44.8333,11.6333
+PORTOMAGGIORE,FE,Emilia Romagna,no,3,,,no,no,no,no,no,no,no,no,no,no,no,FE,Ferrara,44.8333,11.6333
+CASTELFRANCO EMILIA,MO,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MO,Modena,44.65,10.9167
+FORMIGINE,MO,Emilia Romagna,no,4,,,no,no,no,no,no,no,no,no,no,no,no,MO,Modena,44.65,10.9167
+MARANELLO,MO,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MO,Modena,44.65,10.9167
+NONANTOLA,MO,Emilia Romagna,si,2,,Pdf - Ricercabile,no,si,si,si,si,si,no,no,no,no,no,MO,Modena,44.65,10.9167
+CALENDASCO,PC,Emilia Romagna,si,1,,Pdf - Ricercabile,si,si,no,si,si,no,no,no,no,no,no,PC,Piacenza,45.05,9.6833
+CORTEMAGGIORE,PC,Emilia Romagna,no,5,,,no,no,no,no,no,no,no,no,no,no,no,PC,Piacenza,45.05,9.6833
+PIACENZA,PC,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PC,Piacenza,45.05,9.6833
+BERCETO,PR,Emilia Romagna,si,5,2019-04-18,Csv,no,si,si,no,si,no,no,no,no,no,no,PR,Parma,44.8,10.35
+LANGHIRANO,PR,Emilia Romagna,si,4,2020-03-06,Xml,si,si,si,si,si,no,no,no,no,no,no,PR,Parma,44.8,10.35
+MEDESANO,PR,Emilia Romagna,si,4,2019-05-06,Pdf - Ricercabile,si,si,si,no,si,si,si,no,no,no,no,PR,Parma,44.8,10.35
+NOCETO,PR,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PR,Parma,44.8,10.35
+PARMA,PR,Emilia Romagna,no,6,,,no,no,no,no,no,no,no,no,no,no,no,PR,Parma,44.8,10.35
+SALSOMAGGIORE TERME,PR,Emilia Romagna,si,2,,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,si,PR,Parma,44.8,10.35
+BAGNACAVALLO,RA,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RA,Ravenna,44.4167,12.2
+CERVIA,RA,Emilia Romagna,si,3,,Pdf - Ricercabile,no,no,no,no,si,no,no,no,no,no,si,RA,Ravenna,44.4167,12.2
+FAENZA,RA,Emilia Romagna,si,2,,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,RA,Ravenna,44.4167,12.2
+RAVENNA,RA,Emilia Romagna,si,10,2018-02-01,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,no,no,RA,Ravenna,44.4167,12.2
+CATTOLICA,RN,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RN,Rimini,44.0667,12.5667
+MISANO ADRIATICO,RN,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RN,Rimini,44.0667,12.5667
+RICCIONE,RN,Emilia Romagna,si,20,2017-04-05,Pdf - Ricercabile,si,si,si,no,no,si,si,no,si,no,no,RN,Rimini,44.0667,12.5667
+RIMINI,RN,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RN,Rimini,44.0667,12.5667
+TRIESTE,TS,Friuli Venezia Giulia,no,9,,,no,no,no,no,no,no,no,no,no,no,no,TS,Trieste,45.65,13.7667
+CERVIGNANO DEL FRIULI,UD,Friuli Venezia Giulia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,UD,Udine,46.0667,13.2333
+LIGNANO SABBIADORO,UD,Friuli Venezia Giulia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,UD,Udine,46.0667,13.2333
+TRICESIMO,UD,Friuli Venezia Giulia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,UD,Udine,46.0667,13.2333
+UDINE,UD,Friuli Venezia Giulia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,UD,Udine,46.0667,13.2333
+ACUTO,FR,Lazio,no,4,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+AMASENO,FR,Lazio,si,9,2020-10-29,Pdf - Ricercabile,si,si,si,no,no,si,no,no,si,no,no,FR,Frosinone,41.6333,13.3667
+ARCE,FR,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+CASSINO,FR,Lazio,no,46,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+CASTROCIELO,FR,Lazio,no,6,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+CERVARO,FR,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+FERENTINO,FR,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+FIUGGI,FR,Lazio,no,6,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+FROSINONE,FR,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+GUARCINO,FR,Lazio,no,5,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+PONTECORVO,FR,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+SANT'ELIA FIUMERAPIDO,FR,Lazio,si,14,,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+SGURGOLA,FR,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+SORA,FR,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+VILLA SANTA LUCIA,FR,Lazio,si,5,2020-10-31,Pdf - Immagine,si,si,si,no,no,si,no,no,no,no,no,FR,Frosinone,41.6333,13.3667
+APRILIA,LT,Lazio,si,4,2019-12-31,Pdf - Immagine,no,no,si,si,si,no,si,no,no,no,no,LT,Latina,41.4667,12.8833
+CISTERNA DI LATINA,LT,Lazio,si,5,2018-12-21,Csv,no,no,no,no,no,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+FONDI,LT,Lazio,si,35,2020-09-02,Xml,si,si,si,no,si,si,no,no,no,no,no,LT,Latina,41.4667,12.8833
+FORMIA,LT,Lazio,si,12,,Pdf - Ricercabile,si,si,no,si,si,no,si,si,si,si,no,LT,Latina,41.4667,12.8833
+GAETA,LT,Lazio,si,21,2020-09-16,Pdf - Immagine,si,si,no,si,si,si,si,si,si,no,no,LT,Latina,41.4667,12.8833
+ITRI,LT,Lazio,si,9,2020-09-16,Pdf - Ricercabile,si,si,no,si,si,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+LATINA,LT,Lazio,si,25,2020-10-13,Pdf - Ricercabile,si,si,si,no,si,no,si,no,si,no,no,LT,Latina,41.4667,12.8833
+LENOLA,LT,Lazio,no,6,,,no,no,no,no,no,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+MINTURNO,LT,Lazio,si,8,2020-10-13,Pdf - Immagine,no,si,no,no,si,no,no,si,si,no,no,LT,Latina,41.4667,12.8833
+NORMA,LT,Lazio,si,2,2020-10-13,Pdf - Immagine,si,si,si,no,si,si,si,si,no,no,no,LT,Latina,41.4667,12.8833
+PONTINIA,LT,Lazio,si,8,2020-10-13,Pdf - Ricercabile,si,si,no,si,no,no,si,si,no,no,si,LT,Latina,41.4667,12.8833
+PRIVERNO,LT,Lazio,si,6,2020-10-13,Pdf - Ricercabile,si,si,no,si,no,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+SABAUDIA,LT,Lazio,si,48,2020-10-16,Pdf - Ricercabile,si,si,si,no,si,si,si,no,si,no,no,LT,Latina,41.4667,12.8833
+SAN FELICE CIRCEO,LT,Lazio,no,5,,,no,no,no,no,no,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+SERMONETA,LT,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LT,Latina,41.4667,12.8833
+SPIGNO SATURNIA,LT,Lazio,si,2,2020-10-16,Xml,si,si,si,no,no,si,no,si,no,no,no,LT,Latina,41.4667,12.8833
+TERRACINA,LT,Lazio,si,12,2020-10-16,Tabella online non scaricabile,si,si,si,no,si,no,si,si,no,no,no,LT,Latina,41.4667,12.8833
+ANTRODOCO,RI,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RI,Rieti,42.3667,12.8667
+POSTA,RI,Lazio,si,5,2020-10-31,Pdf - Ricercabile,si,si,no,si,no,si,si,no,no,no,no,RI,Rieti,42.3667,12.8667
+ALBANO LAZIALE,RM,Lazio,si,2,,Pdf - Immagine,si,si,si,si,no,si,no,no,si,no,no,RM,Roma,41.9,12.4833
+ANZIO,RM,Lazio,si,10,2020-10-29,Xls,si,si,si,no,si,si,no,si,no,no,no,RM,Roma,41.9,12.4833
+ARDEA,RM,Lazio,si,10,2020-10-29,Pdf - Immagine,si,si,si,no,si,si,no,no,no,no,no,RM,Roma,41.9,12.4833
+ARICCIA,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+ARTENA,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+CAPENA,RM,Lazio,si,2,2018-07-19,Pdf - Ricercabile,si,si,si,no,si,no,no,no,si,si,no,RM,Roma,41.9,12.4833
+CASTEL GANDOLFO,RM,Lazio,si,1,2019-12-17,Xml,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+CAVE,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+CERVETERI,RM,Lazio,si,5,2018-01-10,,si,si,si,no,si,si,si,no,no,no,no,RM,Roma,41.9,12.4833
+CIAMPINO,RM,Lazio,si,7,2019-12-31,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no,RM,Roma,41.9,12.4833
+FIANO ROMANO,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+FIUMICINO,RM,Lazio,no,3,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+FONTE NUOVA,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+FORMELLO,RM,Lazio,si,3,2018-01-15,,si,no,si,no,no,si,no,si,no,no,no,RM,Roma,41.9,12.4833
+FRASCATI,RM,Lazio,si,4,2018-01-24,Xls,si,si,si,si,si,si,si,si,si,si,si,RM,Roma,41.9,12.4833
+GENZANO DI ROMA,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+GROTTAFERRATA,RM,Lazio,si,12,2020-08-18,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no,RM,Roma,41.9,12.4833
+GUIDONIA MONTECELIO,RM,Lazio,si,3,2019-03-28,Pdf - Ricercabile,si,si,si,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+LADISPOLI,RM,Lazio,no,8,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+LARIANO,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+MARINO,RM,Lazio,si,14,2019-12-30,Pdf - Ricercabile,si,si,si,si,no,si,si,si,si,si,si,RM,Roma,41.9,12.4833
+MENTANA,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+MONTE COMPATRI,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+MONTEROTONDO,RM,Lazio,si,12,2018-01-05,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+NETTUNO,RM,Lazio,si,4,2020-05-25,Pdf - Ricercabile,si,si,si,no,no,si,no,no,no,no,no,RM,Roma,41.9,12.4833
+POMEZIA,RM,Lazio,si,29,2018-01-22,Pdf - Ricercabile,no,no,no,no,si,si,no,no,si,si,si,RM,Roma,41.9,12.4833
+RIGNANO FLAMINIO,RM,Lazio,si,3,2018-02-06,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no,RM,Roma,41.9,12.4833
+ROCCA PRIORA,RM,Lazio,no,3,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+ROMA,RM,Lazio,si,283,2020-07-23,Ods,si,si,si,si,si,si,si,si,si,no,no,RM,Roma,41.9,12.4833
+SACROFANO,RM,Lazio,no,8,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+SANTA MARINELLA,RM,Lazio,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+SANT'ORESTE,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+TIVOLI,RM,Lazio,no,9,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+VALLEPIETRA,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+VALMONTONE,RM,Lazio,si,5,2017-12-22,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+VELLETRI,RM,Lazio,no,10,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+ZAGAROLO,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RM,Roma,41.9,12.4833
+FABRICA DI ROMA,VT,Lazio,no,10,,,no,no,no,no,no,no,no,no,no,no,no,VT,Viterbo,42.55,12.1167
+GALLESE,VT,Lazio,si,2,2020-06-01,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,no,no,VT,Viterbo,42.55,12.1167
+MONTEFIASCONE,VT,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VT,Viterbo,42.55,12.1167
+NEPI,VT,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VT,Viterbo,42.55,12.1167
+TARQUINIA,VT,Lazio,si,12,2019-01-26,Pdf - Ricercabile,si,si,no,si,no,no,no,no,no,no,no,VT,Viterbo,42.55,12.1167
+VITERBO,VT,Lazio,no,3,,,no,no,no,no,no,no,no,no,no,no,no,VT,Viterbo,42.55,12.1167
+BOGLIASCO,GE,Liguria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,GE,Genova,44.4167,8.9167
+CAMPOMORONE,GE,Liguria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,GE,Genova,44.4167,8.9167
+GENOVA,GE,Liguria,si,65,2020-06-02,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,no,si,GE,Genova,44.4167,8.9167
+RAPALLO,GE,Liguria,si,2,,Pdf - Ricercabile,si,si,si,no,si,si,no,no,no,no,no,GE,Genova,44.4167,8.9167
+PERINALDO,IM,Liguria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,IM,Imperia,43.8833,8.0167
+SANREMO,IM,Liguria,si,2,2019-11-11,Pdf - Ricercabile,si,si,si,si,si,no,no,no,si,no,no,IM,Imperia,43.8833,8.0167
+AMEGLIA,SP,Liguria,no,3,,,no,no,no,no,no,no,no,no,no,no,no,SP,La Spezia,44.1167,9.8333
+ARCOLA,SP,Liguria,si,1,2019-02-04,Immagine,si,no,si,si,si,si,si,no,no,no,no,SP,La Spezia,44.1167,9.8333
+BOLANO,SP,Liguria,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SP,La Spezia,44.1167,9.8333
+LA SPEZIA,SP,Liguria,si,4,2019-06-02,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,si,no,SP,La Spezia,44.1167,9.8333
+SARZANA,SP,Liguria,no,8,,,no,no,no,no,no,no,no,no,no,no,no,SP,La Spezia,44.1167,9.8333
+SPOTORNO,SV,Liguria,no,20,,,no,no,no,no,no,no,no,no,no,no,no,SV,Savona,44.3167,8.4667
+VILLANOVA D'ALBENGA,SV,Liguria,si,2,2019-03-07,Pdf - Ricercabile,si,si,no,si,si,no,si,no,si,no,no,SV,Savona,44.3167,8.4667
+ALZANO LOMBARDO,BG,Lombardia,si,2,,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,BG,Bergamo,45.7,9.6667
+BERBENNO,BG,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+BREMBATE,BG,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+CORNALBA,BG,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+DALMINE,BG,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+FOPPOLO,BG,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+GORLAGO,BG,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+LOVERE,BG,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+SARNICO,BG,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+SERIATE,BG,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+SUISIO,BG,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+TERNO D'ISOLA,BG,Lombardia,si,2,2017-10-01,Pdf - Immagine,no,si,si,no,si,si,si,si,no,no,si,BG,Bergamo,45.7,9.6667
+TORRE DE' BUSI,BG,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BG,Bergamo,45.7,9.6667
+BOVEGNO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+BRENO,BS,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+BRESCIA,BS,Lombardia,si,24,2020-10-30,,si,si,si,si,si,si,si,no,no,no,no,BS,Brescia,44.5333,10.2
+CAINO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+CAPRIANO DEL COLLE,BS,Lombardia,si,2,,Pdf - Ricercabile,si,si,si,si,no,no,si,no,no,no,no,BS,Brescia,44.5333,10.2
+CASTEL MELLA,BS,Lombardia,si,4,2020-10-30,Pdf - Ricercabile,si,si,si,si,no,no,si,si,no,si,si,BS,Brescia,44.5333,10.2
+CASTENEDOLO,BS,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+CELLATICA,BS,Lombardia,si,1,2020-10-30,,si,si,si,no,si,si,si,si,no,no,si,BS,Brescia,44.5333,10.2
+CHIARI,BS,Lombardia,no,10,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+CONCESIO,BS,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+CORTE FRANCA,BS,Lombardia,si,2,2020-10-30,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+DESENZANO DEL GARDA,BS,Lombardia,si,6,2020-10-30,Pdf - Ricercabile,si,si,si,si,no,no,si,no,no,no,no,BS,Brescia,44.5333,10.2
+FLERO,BS,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+GIANICO,BS,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+ISEO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+LONATO DEL GARDA,BS,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+LUMEZZANE,BS,Lombardia,si,3,2020-10-31,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no,BS,Brescia,44.5333,10.2
+MANERBA DEL GARDA,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+NUVOLERA,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+OSPITALETTO,BS,Lombardia,si,1,2018-01-22,Pdf - Immagine,no,si,si,no,si,si,no,si,no,no,si,BS,Brescia,44.5333,10.2
+PADENGHE SUL GARDA,BS,Lombardia,si,2,2020-10-31,Pdf - Ricercabile,si,si,si,no,si,no,si,no,si,no,no,BS,Brescia,44.5333,10.2
+PASPARDO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+PASSIRANO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+PEZZAZE,BS,Lombardia,si,6,2020-10-31,Tabella online non scaricabile,si,si,no,no,no,no,si,no,no,no,no,BS,Brescia,44.5333,10.2
+PONCARALE,BS,Lombardia,si,2,2020-10-31,Pdf - Immagine,si,si,si,si,si,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+PONTOGLIO,BS,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+REZZATO,BS,Lombardia,si,1,2020-10-31,Immagine,si,si,si,si,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+RONCADELLE,BS,Lombardia,si,8,,Pdf - Immagine,si,si,si,si,si,no,si,si,si,no,si,BS,Brescia,44.5333,10.2
+SELLERO,BS,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+SOIANO DEL LAGO,BS,Lombardia,si,3,2020-11-01,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+TOSCOLANO-MADERNO,BS,Lombardia,si,2,2020-11-01,Pdf - Immagine,si,si,si,si,no,no,no,no,no,no,no,BS,Brescia,44.5333,10.2
+VILLA CARCINA,BS,Lombardia,si,2,,Pdf - Ricercabile,si,si,si,si,no,no,si,no,no,no,no,BS,Brescia,44.5333,10.2
+CABIATE,CO,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CO,Como,45.8,9.0833
+CAMPIONE D'ITALIA,CO,Lombardia,si,5,,Pdf - Ricercabile,si,si,si,no,no,si,si,si,si,no,no,CO,Como,45.8,9.0833
+CANZO,CO,Lombardia,si,1,2019-08-27,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,si,CO,Como,45.8,9.0833
+CARUGO,CO,Lombardia,si,2,,Xml,si,si,si,no,no,si,no,no,no,no,no,CO,Como,45.8,9.0833
+CASLINO D'ERBA,CO,Lombardia,si,2,2020-10-19,Pdf - Ricercabile,si,si,no,no,no,no,no,no,no,no,no,CO,Como,45.8,9.0833
+CERMENATE,CO,Lombardia,si,2,2019-07-08,Ods,si,si,si,no,no,no,si,no,no,no,no,CO,Como,45.8,9.0833
+COMO,CO,Lombardia,si,2,,Tabella online non scaricabile,si,si,si,si,si,si,si,no,no,si,no,CO,Como,45.8,9.0833
+ERBA,CO,Lombardia,si,6,2017-03-28,Doc,no,no,si,no,si,si,si,si,no,no,si,CO,Como,45.8,9.0833
+FINO MORNASCO,CO,Lombardia,si,5,2018-04-05,Pdf - Ricercabile,no,si,si,si,no,no,si,si,no,si,si,CO,Como,45.8,9.0833
+LIPOMO,CO,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CO,Como,45.8,9.0833
+LURAGO D'ERBA,CO,Lombardia,si,2,2019-04-17,Pdf - Immagine,no,si,si,si,no,si,si,si,si,si,si,CO,Como,45.8,9.0833
+MARIANO COMENSE,CO,Lombardia,si,5,2019-04-16,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,CO,Como,45.8,9.0833
+TAVERNERIO,CO,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CO,Como,45.8,9.0833
+DOVERA,CR,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CR,Cremona,45.1333,10.0333
+SPINO D'ADDA,CR,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CR,Cremona,45.1333,10.0333
+TRESCORE CREMASCO,CR,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CR,Cremona,45.1333,10.0333
+AIRUNO,LC,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+BALLABIO,LC,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+CESANA BRIANZA,LC,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+COLICO,LC,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+COSTA MASNAGA,LC,Lombardia,si,7,,Pdf - Immagine,si,si,si,si,si,si,si,si,no,no,no,LC,Lecco,45.85,9.3833
+GALBIATE,LC,Lombardia,si,2,,Pdf - Ricercabile,si,si,no,si,si,si,si,si,si,si,si,LC,Lecco,45.85,9.3833
+LECCO,LC,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+OLGINATE,LC,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+VALMADRERA,LC,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LC,Lecco,45.85,9.3833
+BREMBIO,LO,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,LO,Lodi,45.3167,9.5
+CASALMAIOCCO,LO,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LO,Lodi,45.3167,9.5
+SANT'ANGELO LODIGIANO,LO,Lombardia,si,1,2020-09-25,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,si,no,LO,Lodi,45.3167,9.5
+ALBAIRATE,MI,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+ASSAGO,MI,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+BAREGGIO,MI,Lombardia,si,5,2020-01-01,Pdf - Ricercabile,no,si,si,no,si,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+BELLINZAGO LOMBARDO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+BERNATE TICINO,MI,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+BOLLATE,MI,Lombardia,si,8,2016-07-25,Pdf - Immagine,si,si,si,si,si,si,no,no,si,si,si,MI,Milano,45.4667,9.1833
+BUCCINASCO,MI,Lombardia,si,24,2019-03-26,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,si,si,MI,Milano,45.4667,9.1833
+CALVIGNASCO,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CAMBIAGO,MI,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CARUGATE,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CASARILE,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CESANO BOSCONE,MI,Lombardia,no,21,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CINISELLO BALSAMO,MI,Lombardia,no,20,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+COLOGNO MONZESE,MI,Lombardia,no,9,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CORMANO,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CORNAREDO,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CORSICO,MI,Lombardia,si,14,2020-10-01,Pdf - Ricercabile,si,si,si,si,no,si,si,no,no,si,no,MI,Milano,45.4667,9.1833
+CUGGIONO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+CUSAGO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+DAIRAGO,MI,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+GAGGIANO,MI,Lombardia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+GARBAGNATE MILANESE,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+GESSATE,MI,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+INVERUNO,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+LAINATE,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+LEGNANO,MI,Lombardia,si,13,2020-10-20,Pdf - Ricercabile,si,no,si,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+LISCATE,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MAGENTA,MI,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MAGNAGO,MI,Lombardia,no,15,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MEDIGLIA,MI,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MELEGNANO,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MELZO,MI,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+MILANO,MI,Lombardia,si,267,2020-10-21,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,si,si,MI,Milano,45.4667,9.1833
+MOTTA VISCONTI,MI,Lombardia,si,2,,Pdf - Immagine,no,no,no,si,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+NERVIANO,MI,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+NOVATE MILANESE,MI,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PADERNO DUGNANO,MI,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PARABIAGO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PESCHIERA BORROMEO,MI,Lombardia,si,11,2020-10-21,Pdf - Ricercabile,no,si,si,si,si,si,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PIEVE EMANUELE,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PIOLTELLO,MI,Lombardia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+POZZO D'ADDA,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+PREGNANA MILANESE,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+RESCALDINA,MI,Lombardia,no,8,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+RHO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+RODANO,MI,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+ROZZANO,MI,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SAN DONATO MILANESE,MI,Lombardia,si,35,,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no,MI,Milano,45.4667,9.1833
+SAN GIULIANO MILANESE,MI,Lombardia,si,9,,Pdf - Ricercabile,no,si,si,si,si,si,si,no,si,no,si,MI,Milano,45.4667,9.1833
+SAN VITTORE OLONA,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SEDRIANO,MI,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SEGRATE,MI,Lombardia,si,19,,Pdf - Ricercabile,si,si,si,no,si,no,si,no,no,no,no,MI,Milano,45.4667,9.1833
+SENAGO,MI,Lombardia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SESTO SAN GIOVANNI,MI,Lombardia,no,17,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SETTALA,MI,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+SETTIMO MILANESE,MI,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+TREZZANO SUL NAVIGLIO,MI,Lombardia,si,15,2020-10-22,Xls,si,si,si,si,si,si,si,si,no,no,si,MI,Milano,45.4667,9.1833
+TRUCCAZZANO,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+VANZAGHELLO,MI,Lombardia,no,16,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+VIGNATE,MI,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MI,Milano,45.4667,9.1833
+BORGO VIRGILIO,MN,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,MN,Mantova,45.15,10.7833
+BOZZOLO,MN,Lombardia,si,2,2016-06-06,Pdf - Immagine,si,si,no,si,si,si,si,si,si,si,si,MN,Mantova,45.15,10.7833
+SERRAVALLE A PO,MN,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,MN,Mantova,45.15,10.7833
+SUZZARA,MN,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MN,Mantova,45.15,10.7833
+ALAGNA,PV,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+BRONI,PV,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+CILAVEGNA,PV,Lombardia,si,2,2018-06-28,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,si,PV,Pavia,45.1833,9.1667
+GARLASCO,PV,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+PAVIA,PV,Lombardia,si,2,2018-08-14,Pdf - Ricercabile,si,si,si,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+SIZIANO,PV,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+TORREVECCHIA PIA,PV,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,PV,Pavia,45.1833,9.1667
+VIGEVANO,PV,Lombardia,si,14,2019-10-09,Xls,no,si,si,si,si,si,si,si,no,si,si,PV,Pavia,45.1833,9.1667
+DELEBIO,SO,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SO,Sondrio,46.1833,9.8833
+MADESIMO,SO,Lombardia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,SO,Sondrio,46.1833,9.8833
+ARCISATE,VA,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+AZZATE,VA,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+BUSTO ARSIZIO,VA,Lombardia,si,5,2020-04-14,Pdf - Ricercabile,no,no,si,no,no,si,no,no,no,no,no,VA,Varese,45.8333,8.8167
+CARONNO PERTUSELLA,VA,Lombardia,si,2,2020-07-29,Pdf - Ricercabile,si,no,si,no,si,si,si,si,no,si,si,VA,Varese,45.8333,8.8167
+CASSANO MAGNAGO,VA,Lombardia,si,2,,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,no,VA,Varese,45.8333,8.8167
+CASTELLANZA,VA,Lombardia,no,2,,,si,si,si,no,no,si,no,si,no,no,no,VA,Varese,45.8333,8.8167
+CASTIGLIONE OLONA,VA,Lombardia,si,6,2017-02-08,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,no,no,VA,Varese,45.8333,8.8167
+CITTIGLIO,VA,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+INDUNO OLONA,VA,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+LEGGIUNO,VA,Lombardia,si,1,2016-11-30,Pdf - Immagine,no,si,si,no,no,si,no,no,no,no,no,VA,Varese,45.8333,8.8167
+LONATE CEPPINO,VA,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+LUINO,VA,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+MARCHIROLO,VA,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+SARONNO,VA,Lombardia,si,2,2015-10-29,Pdf - Ricercabile,si,si,si,no,si,si,no,no,no,no,no,VA,Varese,45.8333,8.8167
+SOMMA LOMBARDO,VA,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+SUMIRAGO,VA,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+UBOLDO,VA,Lombardia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+VARESE,VA,Lombardia,no,62,,,no,no,no,no,no,no,no,no,no,no,no,VA,Varese,45.8333,8.8167
+VENEGONO SUPERIORE,VA,Lombardia,si,1,2020-10-25,Pdf - Ricercabile,si,si,si,no,no,si,no,si,no,si,no,VA,Varese,45.8333,8.8167
+CUPRAMONTANA,AN,Marche,si,1,2013-08-01,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,AN,Ancona,43.6167,13.5167
+GROTTAMMARE,AP,Marche,no,5,,,no,no,no,no,no,no,no,no,no,no,no,AP,Ascoli Piceno,42.85,13.5667
+SAN BENEDETTO DEL TRONTO,AP,Marche,no,2,,,no,no,no,no,no,no,no,no,no,no,no,AP,Ascoli Piceno,42.85,13.5667
+CAMPOBASSO,CB,Molise,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CB,Campobasso,41.5667,14.65
+VENAFRO,IS,Molise,no,1,,,no,no,no,no,no,no,no,no,no,no,no,IS,Isernia,41.6,14.2333
+BOSCO MARENGO,AL,Piemonte,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AL,Alessandria,44.9167,8.6167
+DUSINO SAN MICHELE,AT,Piemonte,si,2,2019-10-21,Xls,si,si,no,no,no,si,no,no,si,no,no,AT,Asti,44.8833,8.2
+GRAZZANO BADOGLIO,AT,Piemonte,si,1,2012-01-01,Pdf - Ricercabile,si,si,no,si,si,si,si,si,si,si,no,AT,Asti,44.8833,8.2
+MONCALVO,AT,Piemonte,si,5,,,si,si,no,no,si,si,si,si,si,si,si,AT,Asti,44.8833,8.2
+PENANGO,AT,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AT,Asti,44.8833,8.2
+VALLE SAN NICOLAO,BI,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BI,Biella,45.5667,8.05
+ALBA,CN,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CN,Cuneo,44.4,7.55
+CUNEO,CN,Piemonte,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CN,Cuneo,44.4,7.55
+REVELLO,CN,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CN,Cuneo,44.4,7.55
+SAVIGLIANO,CN,Piemonte,si,1,,Pdf - Ricercabile,si,si,si,no,si,si,no,si,si,si,si,CN,Cuneo,44.4,7.55
+AMENO,NO,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,NO,Novara,45.45,8.6333
+BORGOMANERO,NO,Piemonte,si,1,2020-06-30,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,NO,Novara,45.45,8.6333
+MIASINO,NO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,NO,Novara,45.45,8.6333
+NOVARA,NO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,NO,Novara,45.45,8.6333
+BANCHETTE,TO,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+BARDONECCHIA,TO,Piemonte,si,6,2019-10-18,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,si,si,TO,Torino,45.0667,7.7
+BEINASCO,TO,Piemonte,si,2,2018-12-30,Pdf - Ricercabile,si,si,si,no,si,si,si,no,no,no,no,TO,Torino,45.0667,7.7
+BORGARO TORINESE,TO,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+CARMAGNOLA,TO,Piemonte,si,4,2019-03-12,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,no,TO,Torino,45.0667,7.7
+CASTIGLIONE TORINESE,TO,Piemonte,no,3,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+CESANA TORINESE,TO,Piemonte,si,5,2019-10-14,Xls,si,si,no,no,si,si,no,si,si,si,si,TO,Torino,45.0667,7.7
+CHIVASSO,TO,Piemonte,si,5,2020-02-18,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,si,si,TO,Torino,45.0667,7.7
+COAZZE,TO,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+LEINI,TO,Piemonte,si,5,2019-10-21,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,si,si,TO,Torino,45.0667,7.7
+NICHELINO,TO,Piemonte,si,1,2019-01-15,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no,TO,Torino,45.0667,7.7
+ORBASSANO,TO,Piemonte,no,8,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+PIOSSASCO,TO,Piemonte,si,2,2019-11-07,Xml,si,si,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+SAN CARLO CANAVESE,TO,Piemonte,si,4,2019-10-15,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+SAN MAURIZIO CANAVESE,TO,Piemonte,no,4,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+SAN SEBASTIANO DA PO,TO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+SETTIMO TORINESE,TO,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+TORINO,TO,Piemonte,si,33,2019-03-01,Pdf - Ricercabile,si,si,si,no,si,si,si,no,si,no,no,TO,Torino,45.0667,7.7
+TORRAZZA PIEMONTE,TO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+VAL DELLA TORRE,TO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+VENARIA REALE,TO,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+VEROLENGO,TO,Piemonte,si,1,2015-10-12,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,TO,Torino,45.0667,7.7
+VILLAREGGIA,TO,Piemonte,no,16,,,no,no,no,no,no,no,no,no,no,no,no,TO,Torino,45.0667,7.7
+VILLASTELLONE,TO,Piemonte,si,1,2019-02-21,Pdf - Ricercabile,no,si,no,no,si,si,no,no,no,no,no,TO,Torino,45.0667,7.7
+VOLPIANO,TO,Piemonte,si,7,2019-04-29,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,TO,Torino,45.0667,7.7
+VOLVERA,TO,Piemonte,si,7,2015-10-14,Xml,si,si,si,no,si,si,si,si,si,si,si,TO,Torino,45.0667,7.7
+BAVENO,VB,Piemonte,no,4,,,no,no,no,no,no,no,no,no,no,no,no,VB,Verbania,45.9333,8.55
+OMEGNA,VB,Piemonte,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VB,Verbania,45.9333,8.55
+VERBANIA,VB,Piemonte,no,4,,,no,no,no,no,no,no,no,no,no,no,no,VB,Verbania,45.9333,8.55
+CIGLIANO,VC,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VC,Vercelli,45.3333,8.4167
+CRESCENTINO,VC,Piemonte,no,4,,,no,no,no,no,no,no,no,no,no,no,no,VC,Vercelli,45.3333,8.4167
+GATTINARA,VC,Piemonte,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VC,Vercelli,45.3333,8.4167
+VERCELLI,VC,Piemonte,no,3,,,no,no,no,no,no,no,no,no,no,no,no,VC,Vercelli,45.3333,8.4167
+ACQUAVIVA DELLE FONTI,BA,Puglia,si,18,2018-02-01,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no,BA,Bari,41.1167,16.8833
+ADELFIA,BA,Puglia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+ALBEROBELLO,BA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+ALTAMURA,BA,Puglia,si,12,2019-01-01,Xls,si,no,si,no,si,no,si,no,si,si,si,BA,Bari,41.1167,16.8833
+BARI,BA,Puglia,si,189,2020-07-01,Xls,si,si,si,si,si,si,si,si,si,no,si,BA,Bari,41.1167,16.8833
+BITETTO,BA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+BITONTO,BA,Puglia,no,26,,,si,si,si,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+BITRITTO,BA,Puglia,si,12,2017-01-24,Xls,si,si,si,no,si,no,no,no,si,si,no,BA,Bari,41.1167,16.8833
+CAPURSO,BA,Puglia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CASAMASSIMA,BA,Puglia,no,12,,,si,no,si,si,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CASSANO DELLE MURGE,BA,Puglia,no,12,,,si,si,si,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CASTELLANA GROTTE,BA,Puglia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CELLAMARE,BA,Puglia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CONVERSANO,BA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+CORATO,BA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+GIOVINAZZO,BA,Puglia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+GRAVINA IN PUGLIA,BA,Puglia,no,6,,,si,si,si,si,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+GRUMO APPULA,BA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+MODUGNO,BA,Puglia,si,8,,Immagine,si,si,no,si,si,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+MOLFETTA,BA,Puglia,si,5,2019-06-07,Pdf - Immagine,no,si,si,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+MONOPOLI,BA,Puglia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+NOICATTARO,BA,Puglia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+PALO DEL COLLE,BA,Puglia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+POLIGNANO A MARE,BA,Puglia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+PUTIGNANO,BA,Puglia,si,6,2020-08-25,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,si,BA,Bari,41.1167,16.8833
+SANNICANDRO DI BARI,BA,Puglia,si,5,2020-08-26,Pdf - Ricercabile,si,si,si,no,no,si,si,si,si,no,no,BA,Bari,41.1167,16.8833
+SANTERAMO IN COLLE,BA,Puglia,no,18,,,no,no,no,no,no,no,no,no,no,no,no,BA,Bari,41.1167,16.8833
+TRIGGIANO,BA,Puglia,si,26,2010-04-15,Pdf - Ricercabile,si,si,no,no,no,no,si,no,si,si,no,BA,Bari,41.1167,16.8833
+VALENZANO,BA,Puglia,si,84,,Pdf - Ricercabile,si,si,si,no,no,si,no,no,si,si,no,BA,Bari,41.1167,16.8833
+BRINDISI,BR,Puglia,si,145,2018-03-29,Pdf - Ricercabile,si,si,si,no,si,no,no,no,si,no,no,BR,Brindisi,40.65,17.9333
+CAROVIGNO,BR,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+CEGLIE MESSAPICA,BR,Puglia,si,17,2017-01-27,Pdf - Ricercabile,si,si,si,si,no,si,si,no,si,si,no,BR,Brindisi,40.65,17.9333
+CELLINO SAN MARCO,BR,Puglia,si,3,2018-05-17,Pdf - Ricercabile,si,si,si,si,no,si,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+FASANO,BR,Puglia,si,45,2019-10-16,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,BR,Brindisi,40.65,17.9333
+LATIANO,BR,Puglia,si,1,2018-04-04,Csv,si,si,si,no,si,no,no,no,si,no,no,BR,Brindisi,40.65,17.9333
+MESAGNE,BR,Puglia,si,12,2018-12-29,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,si,no,BR,Brindisi,40.65,17.9333
+ORIA,BR,Puglia,si,37,2018-03-26,Doc,si,si,si,si,si,si,si,si,si,si,si,BR,Brindisi,40.65,17.9333
+OSTUNI,BR,Puglia,si,33,2019-01-01,Immagine,si,no,si,si,si,no,no,si,si,si,no,BR,Brindisi,40.65,17.9333
+SAN DONACI,BR,Puglia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+SAN MICHELE SALENTINO,BR,Puglia,si,20,2020-08-25,Pdf - Ricercabile,no,si,si,si,si,no,si,no,no,no,si,BR,Brindisi,40.65,17.9333
+SAN PANCRAZIO SALENTINO,BR,Puglia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+SAN PIETRO VERNOTICO,BR,Puglia,no,15,,,no,no,no,no,no,no,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+SAN VITO DEI NORMANNI,BR,Puglia,no,27,,,no,no,no,no,no,no,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+TORCHIAROLO,BR,Puglia,si,51,,Xls,si,si,si,si,no,no,no,no,si,no,no,BR,Brindisi,40.65,17.9333
+TORRE SANTA SUSANNA,BR,Puglia,si,27,2019-12-04,Pdf - Ricercabile,si,si,si,si,no,si,no,no,no,no,no,BR,Brindisi,40.65,17.9333
+VILLA CASTELLI,BR,Puglia,si,8,,Pdf - Ricercabile,no,si,si,no,si,no,no,no,si,no,no,BR,Brindisi,40.65,17.9333
+CERIGNOLA,FG,Puglia,si,20,2020-09-11,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,FG,Foggia,41.4667,15.55
+FOGGIA,FG,Puglia,no,10,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+LESINA,FG,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+LUCERA,FG,Puglia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+MANFREDONIA,FG,Puglia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+ORTA NOVA,FG,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+PESCHICI,FG,Puglia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,FG,Foggia,41.4667,15.55
+SAN SEVERO,FG,Puglia,si,5,,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,FG,Foggia,41.4667,15.55
+ALLISTE,LE,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CAMPI SALENTINA,LE,Puglia,si,4,2020-07-14,Pdf - Ricercabile,si,si,si,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CARMIANO,LE,Puglia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CASARANO,LE,Puglia,si,32,2020-08-26,Pdf - Immagine,si,si,si,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CASTRIGNANO DEL CAPO,LE,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CAVALLINO,LE,Puglia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+COPERTINO,LE,Puglia,si,40,2020-09-12,Pdf - Ricercabile,si,si,si,no,si,no,no,si,no,no,no,LE,Lecce,40.35,18.1833
+GALATINA,LE,Puglia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+LECCE,LE,Puglia,si,46,2020-09-20,Pdf - Ricercabile,no,si,si,no,si,si,si,si,si,no,no,LE,Lecce,40.35,18.1833
+LEQUILE,LE,Puglia,no,33,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+LIZZANELLO,LE,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+MATINO,LE,Puglia,si,5,2020-09-28,Pdf - Ricercabile,si,si,si,no,no,si,si,no,si,no,no,LE,Lecce,40.35,18.1833
+MELENDUGNO,LE,Puglia,si,1,2020-09-28,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+MONTERONI DI LECCE,LE,Puglia,si,10,2020-10-09,Pdf - Ricercabile,si,si,si,no,si,si,no,no,no,no,no,LE,Lecce,40.35,18.1833
+PARABITA,LE,Puglia,si,5,2020-10-09,Pdf - Ricercabile,si,si,si,si,si,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+PORTO CESAREO,LE,Puglia,si,3,2020-10-12,Pdf - Ricercabile,si,si,si,si,no,si,si,no,si,no,no,LE,Lecce,40.35,18.1833
+SALVE,LE,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+SAN DONATO DI LECCE,LE,Puglia,no,17,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+SQUINZANO,LE,Puglia,si,14,2020-10-14,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,LE,Lecce,40.35,18.1833
+SURBO,LE,Puglia,si,3,2020-10-14,Pdf - Ricercabile,si,si,si,no,si,si,si,no,si,no,no,LE,Lecce,40.35,18.1833
+TAURISANO,LE,Puglia,si,6,2020-10-14,Pdf - Ricercabile,si,si,si,no,si,si,si,no,si,no,no,LE,Lecce,40.35,18.1833
+TREPUZZI,LE,Puglia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+UGENTO,LE,Puglia,si,11,2020-10-15,Xls,si,si,si,si,si,si,si,si,si,si,si,LE,Lecce,40.35,18.1833
+VERNOLE,LE,Puglia,si,2,2020-10-15,Pdf - Immagine,si,si,si,no,si,no,no,no,no,no,no,LE,Lecce,40.35,18.1833
+CASTELLANETA,TA,Puglia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+FRAGAGNANO,TA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+GINOSA,TA,Puglia,si,52,2020-11-05,Xls,no,no,no,no,si,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+LATERZA,TA,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+LEPORANO,TA,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+LIZZANO,TA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+MANDURIA,TA,Puglia,si,30,,Pdf - Ricercabile,si,si,si,no,no,si,si,no,no,no,no,TA,Taranto,40.4667,17.2333
+MARTINA FRANCA,TA,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+MASSAFRA,TA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+PALAGIANO,TA,Puglia,si,2,2020-10-09,Pdf - Immagine,si,si,no,si,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+PULSANO,TA,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+SAN GIORGIO IONICO,TA,Puglia,no,17,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+SAN MARZANO DI SAN GIUSEPPE,TA,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+SAVA,TA,Puglia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+STATTE,TA,Puglia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+TARANTO,TA,Puglia,no,82,,,no,no,no,no,no,no,no,no,no,no,no,TA,Taranto,40.4667,17.2333
+ASSEMINI,CA,Sardegna,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+CAGLIARI,CA,Sardegna,si,16,2020-05-18,Ods,si,no,si,si,si,si,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+DOLIANOVA,CA,Sardegna,no,5,,,no,no,no,no,no,no,no,no,no,no,no,SU,Cagliari,39.2167,9.1667
+GERGEI,CA,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SU,Cagliari,39.2167,9.1667
+MURAVERA,CA,Sardegna,si,2,2016-10-25,Pdf - Ricercabile,si,no,si,si,si,no,no,no,no,no,no,SU,Cagliari,39.2167,9.1667
+QUARTU SANT'ELENA,CA,Sardegna,no,18,,,no,no,no,no,no,no,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+QUARTUCCIU,CA,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+SESTU,CA,Sardegna,no,11,,,no,no,no,no,no,no,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+SINNAI,CA,Sardegna,si,1,2018-01-01,Pdf - Ricercabile,no,si,no,no,si,no,si,no,si,no,no,CA,Cagliari,39.2167,9.1667
+UTA,CA,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CA,Cagliari,39.2167,9.1667
+VILLASIMIUS,CA,Sardegna,si,20,2017-12-04,Pdf - Ricercabile,si,si,si,si,no,si,no,no,no,no,no,SU,Cagliari,39.2167,9.1667
+DORGALI,NU,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,NU,Nuoro,40.3167,9.2667
+LULA,NU,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,NU,Nuoro,40.3167,9.2667
+ORISTANO,OR,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,OR,Oristano,39.9,8.6
+ALGHERO,SS,Sardegna,no,3,,,no,no,no,no,no,no,no,no,no,no,no,SS,Sassari,40.7167,8.5667
+SASSARI,SS,Sardegna,si,5,2020-10-05,Ods,si,si,si,no,si,si,si,no,si,si,si,SS,Sassari,40.7167,8.5667
+SORSO,SS,Sardegna,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SS,Sassari,40.7167,8.5667
+AGRIGENTO,AG,Sicilia,si,28,2019-05-30,Pdf - Immagine,si,si,si,no,si,no,no,si,no,no,no,AG,Agrigento,37.3,13.6
+ARAGONA,AG,Sicilia,si,5,2016-03-31,Pdf - Ricercabile,si,si,no,no,si,si,si,no,no,no,no,AG,Agrigento,37.3,13.6
+BIVONA,AG,Sicilia,si,3,2016-09-14,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,AG,Agrigento,37.3,13.6
+CAMASTRA,AG,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+CAMPOBELLO DI LICATA,AG,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+CASTELTERMINI,AG,Sicilia,si,2,2016-04-28,Immagine,si,si,si,si,si,no,si,si,si,si,si,AG,Agrigento,37.3,13.6
+CATTOLICA ERACLEA,AG,Sicilia,si,15,2016-04-26,Immagine,si,si,no,no,si,si,si,si,no,no,no,AG,Agrigento,37.3,13.6
+CIANCIANA,AG,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+FAVARA,AG,Sicilia,no,13,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+GROTTE,AG,Sicilia,si,6,2016-05-05,Pdf - Ricercabile,si,si,no,si,si,no,no,no,si,no,no,AG,Agrigento,37.3,13.6
+JOPPOLO GIANCAXIO,AG,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+LICATA,AG,Sicilia,si,109,2019-01-21,Immagine,si,si,si,no,si,si,no,no,no,no,no,AG,Agrigento,37.3,13.6
+MENFI,AG,Sicilia,si,9,2017-10-31,Doc,si,si,si,no,no,no,si,no,si,no,no,AG,Agrigento,37.3,13.6
+MONTEVAGO,AG,Sicilia,si,12,2019-05-27,Pdf - Ricercabile,si,no,si,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+NARO,AG,Sicilia,si,59,2019-05-13,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,AG,Agrigento,37.3,13.6
+PALMA DI MONTECHIARO,AG,Sicilia,si,7,2016-03-01,Immagine,si,si,si,no,no,no,no,no,si,no,no,AG,Agrigento,37.3,13.6
+PORTO EMPEDOCLE,AG,Sicilia,si,1,,Immagine,no,si,si,si,si,no,si,no,si,si,no,AG,Agrigento,37.3,13.6
+RACALMUTO,AG,Sicilia,si,8,2018-09-02,Immagine,si,si,si,si,si,si,si,si,si,si,si,AG,Agrigento,37.3,13.6
+RIBERA,AG,Sicilia,si,15,,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,si,si,AG,Agrigento,37.3,13.6
+SAMBUCA DI SICILIA,AG,Sicilia,si,3,2019-12-23,Pdf - Ricercabile,si,no,si,si,no,si,no,no,si,si,no,AG,Agrigento,37.3,13.6
+SANTA ELISABETTA,AG,Sicilia,si,2,2016-07-26,Pdf - Ricercabile,si,si,si,si,no,no,si,no,si,si,no,AG,Agrigento,37.3,13.6
+SANTA MARGHERITA DI BELICE,AG,Sicilia,no,13,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+SANT'ANGELO MUXARO,AG,Sicilia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,AG,Agrigento,37.3,13.6
+SANTO STEFANO QUISQUINA,AG,Sicilia,si,4,2019-03-18,Pdf - Ricercabile,si,si,si,si,si,no,si,si,si,si,si,AG,Agrigento,37.3,13.6
+SCIACCA,AG,Sicilia,si,7,2016-08-30,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si,AG,Agrigento,37.3,13.6
+SICULIANA,AG,Sicilia,si,3,2015-12-31,Immagine,no,si,si,no,si,si,no,no,no,no,no,AG,Agrigento,37.3,13.6
+BUTERA,CL,Sicilia,si,9,2019-05-08,Immagine,si,si,no,no,no,no,no,no,no,no,no,CL,Caltanisetta,37.4833,14.0667
+CALTANISSETTA,CL,Sicilia,si,270,2020-05-12,Pdf - Ricercabile,si,si,si,no,si,si,si,si,no,no,no,CL,Caltanisetta,37.4833,14.0667
+GELA,CL,Sicilia,si,52,,Pdf - Ricercabile,si,no,no,si,si,si,no,no,no,no,no,CL,Caltanisetta,37.4833,14.0667
+MUSSOMELI,CL,Sicilia,si,23,,Pdf - Ricercabile,si,si,si,si,si,no,no,no,si,si,no,CL,Caltanisetta,37.4833,14.0667
+NISCEMI,CL,Sicilia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,CL,Caltanisetta,37.4833,14.0667
+RIESI,CL,Sicilia,si,10,2019-05-15,Pdf - Immagine,si,si,si,no,si,si,si,no,si,si,no,CL,Caltanisetta,37.4833,14.0667
+SAN CATALDO,CL,Sicilia,no,35,,,no,no,no,no,no,no,no,no,no,no,no,CL,Caltanisetta,37.4833,14.0667
+SERRADIFALCO,CL,Sicilia,si,6,2018-07-01,Pdf - Ricercabile,si,si,si,no,no,si,si,si,si,si,no,CL,Caltanisetta,37.4833,14.0667
+VALLELUNGA PRATAMENO,CL,Sicilia,si,56,2014-06-24,Tabella online non scaricabile,si,si,si,no,si,no,no,no,no,no,no,CL,Caltanisetta,37.4833,14.0667
+ACI BONACCORSI,CT,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+ACI CASTELLO,CT,Sicilia,si,5,2017-12-31,Pdf - Immagine,si,si,si,si,si,si,si,si,si,si,si,CT,Catania,37.5,15.0833
+ACI CATENA,CT,Sicilia,si,17,2012-04-24,Tabella online non scaricabile,si,si,si,no,si,no,si,si,si,si,no,CT,Catania,37.5,15.0833
+ACI SANT'ANTONIO,CT,Sicilia,no,38,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+ACIREALE,CT,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+ADRANO,CT,Sicilia,si,13,,Pdf - Ricercabile,si,no,si,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+BELPASSO,CT,Sicilia,si,37,2018-12-31,Pdf - Ricercabile,si,si,si,no,si,no,no,si,si,no,no,CT,Catania,37.5,15.0833
+CALATABIANO,CT,Sicilia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+CALTAGIRONE,CT,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+CAMPOROTONDO ETNEO,CT,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+CASTEL DI IUDICA,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+CATANIA,CT,Sicilia,si,154,2020-03-24,Pdf - Ricercabile,si,si,si,no,si,si,no,si,no,no,no,CT,Catania,37.5,15.0833
+FIUMEFREDDO DI SICILIA,CT,Sicilia,no,10,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+GIARRE,CT,Sicilia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+GRAVINA DI CATANIA,CT,Sicilia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+LICODIA EUBEA,CT,Sicilia,no,20,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+LINGUAGLOSSA,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+MASCALI,CT,Sicilia,no,9,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+MASCALUCIA,CT,Sicilia,si,11,2017-03-27,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,no,no,CT,Catania,37.5,15.0833
+MILITELLO IN VAL DI CATANIA,CT,Sicilia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+MISTERBIANCO,CT,Sicilia,si,30,2020-07-15,Pdf - Ricercabile,si,si,si,si,si,si,no,no,si,si,si,CT,Catania,37.5,15.0833
+MOTTA SANT'ANASTASIA,CT,Sicilia,no,230,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+NICOLOSI,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+PALAGONIA,CT,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+PEDARA,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+PIEDIMONTE ETNEO,CT,Sicilia,no,16,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+RAGALNA,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+RAMACCA,CT,Sicilia,no,25,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+SAN GIOVANNI LA PUNTA,CT,Sicilia,si,5,,Pdf - Immagine,si,si,si,no,si,si,no,si,si,si,no,CT,Catania,37.5,15.0833
+SAN GREGORIO DI CATANIA,CT,Sicilia,si,11,2020-07-07,Doc,si,si,si,no,no,si,no,no,si,si,no,CT,Catania,37.5,15.0833
+SAN PIETRO CLARENZA,CT,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+SANTA MARIA DI LICODIA,CT,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+SANTA VENERINA,CT,Sicilia,no,13,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+SANT'AGATA LI BATTIATI,CT,Sicilia,si,3,2018-04-24,Tabella online non scaricabile,si,si,si,si,si,no,si,si,si,si,no,CT,Catania,37.5,15.0833
+TRECASTAGNI,CT,Sicilia,no,60,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+TREMESTIERI ETNEO,CT,Sicilia,no,13,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+VIAGRANDE,CT,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+ZAFFERANA ETNEA,CT,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,CT,Catania,37.5,15.0833
+AIDONE,EN,Sicilia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+ASSORO,EN,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+BARRAFRANCA,EN,Sicilia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+CALASCIBETTA,EN,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+ENNA,EN,Sicilia,no,10,,,si,si,si,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+PIAZZA ARMERINA,EN,Sicilia,si,10,2020-02-20,Immagine,si,si,si,no,no,no,si,no,no,no,no,EN,Enna,37.5667,14.2667
+PIETRAPERZIA,EN,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+VALGUARNERA CAROPEPE,EN,Sicilia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+VILLAROSA,EN,Sicilia,no,11,,,no,no,no,no,no,no,no,no,no,no,no,EN,Enna,37.5667,14.2667
+ANTILLO,ME,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+BARCELLONA POZZO DI GOTTO,ME,Sicilia,no,15,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+CAPO D'ORLANDO,ME,Sicilia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+CARONIA,ME,Sicilia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+FLORESTA,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+FURNARI,ME,Sicilia,si,96,2017-03-26,Pdf - Ricercabile,si,si,no,no,no,no,no,no,si,no,no,ME,Messina,38.1833,15.5667
+GAGGI,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+GIOIOSA MAREA,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+LETOJANNI,ME,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+LIPARI,ME,Sicilia,no,14,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+MESSINA,ME,Sicilia,si,83,2020-05-26,Xls,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+MILAZZO,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+MONTALBANO ELICONA,ME,Sicilia,si,1,2019-04-29,Pdf - Ricercabile,si,si,si,si,si,no,no,no,si,no,no,ME,Messina,38.1833,15.5667
+NASO,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+REITANO,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+ROCCALUMERA,ME,Sicilia,si,3,,Pdf - Immagine,si,no,no,no,no,si,no,no,si,si,no,ME,Messina,38.1833,15.5667
+ROMETTA,ME,Sicilia,no,42,,,si,si,no,si,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+SANTA TERESA DI RIVA,ME,Sicilia,si,1,2019-11-25,Pdf - Ricercabile,si,no,si,si,no,no,si,no,si,si,no,ME,Messina,38.1833,15.5667
+SANT'ALESSIO SICULO,ME,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+SAPONARA,ME,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+SCALETTA ZANCLEA,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+SINAGRA,ME,Sicilia,no,9,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+SPADAFORA,ME,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+TAORMINA,ME,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+TERME VIGLIATORE,ME,Sicilia,si,4,2020-07-07,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+TORREGROTTA,ME,Sicilia,no,9,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+TORRENOVA,ME,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+VILLAFRANCA TIRRENA,ME,Sicilia,no,19,,,no,no,no,no,no,no,no,no,no,no,no,ME,Messina,38.1833,15.5667
+ALTAVILLA MILICIA,PA,Sicilia,no,23,,,si,si,si,si,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+ALTOFONTE,PA,Sicilia,si,13,2015-10-25,Pdf - Ricercabile,si,no,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+BAGHERIA,PA,Sicilia,si,172,2018-02-06,Pdf - Ricercabile,si,si,si,no,si,si,no,si,si,si,no,PA,Palermo,38.1167,13.35
+BALESTRATE,PA,Sicilia,si,6,2018-05-16,Immagine,si,si,si,no,si,si,no,si,si,no,no,PA,Palermo,38.1167,13.35
+BAUCINA,PA,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+BELMONTE MEZZAGNO,PA,Sicilia,si,53,2020-06-30,Pdf - Ricercabile,no,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+BOLOGNETTA,PA,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+BORGETTO,PA,Sicilia,si,61,2020-06-05,Pdf - Ricercabile,no,si,si,no,si,si,si,no,no,si,no,PA,Palermo,38.1167,13.35
+CACCAMO,PA,Sicilia,no,46,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CAMPOFELICE DI ROCCELLA,PA,Sicilia,no,12,,,si,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CAMPOREALE,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CAPACI,PA,Sicilia,si,34,,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,si,no,PA,Palermo,38.1167,13.35
+CARINI,PA,Sicilia,si,94,,Pdf - Ricercabile,si,si,no,no,si,si,no,no,si,no,no,PA,Palermo,38.1167,13.35
+CASTELDACCIA,PA,Sicilia,si,8,2020-07-31,Pdf - Ricercabile,si,si,si,si,si,no,si,si,no,no,si,PA,Palermo,38.1167,13.35
+CASTRONOVO DI SICILIA,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CERDA,PA,Sicilia,no,10,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CIMINNA,PA,Sicilia,si,26,2015-08-04,Pdf - Ricercabile,si,no,si,si,si,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+CINISI,PA,Sicilia,si,43,2020-07-03,Immagine,si,si,no,si,si,no,si,no,si,no,no,PA,Palermo,38.1167,13.35
+COLLESANO,PA,Sicilia,si,13,2018-07-25,Immagine,si,si,si,no,si,no,no,no,si,no,no,PA,Palermo,38.1167,13.35
+CORLEONE,PA,Sicilia,si,37,,Pdf - Ricercabile,si,si,si,no,si,no,no,no,si,no,no,PA,Palermo,38.1167,13.35
+FICARAZZI,PA,Sicilia,si,11,2017-12-31,Xls,si,si,si,si,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+GIARDINELLO,PA,Sicilia,si,4,2017-05-11,Immagine,si,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+ISOLA DELLE FEMMINE,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+LASCARI,PA,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+MARINEO,PA,Sicilia,si,3,2014-01-01,Pdf - Ricercabile,si,si,no,no,si,no,no,si,si,no,no,PA,Palermo,38.1167,13.35
+MEZZOJUSO,PA,Sicilia,si,3,,Pdf - Ricercabile,si,si,si,si,no,si,no,no,si,no,no,PA,Palermo,38.1167,13.35
+MISILMERI,PA,Sicilia,no,63,,,si,si,si,si,si,no,si,no,no,no,no,PA,Palermo,38.1167,13.35
+MONREALE,PA,Sicilia,no,130,,,si,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+MONTELEPRE,PA,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+PALERMO,PA,Sicilia,si,1991,2020-01-31,Pdf - Ricercabile,no,si,no,si,si,si,no,si,si,no,si,PA,Palermo,38.1167,13.35
+PARTINICO,PA,Sicilia,no,129,,,si,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+PETRALIA SOPRANA,PA,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+PIANA DEGLI ALBANESI,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+POLIZZI GENEROSA,PA,Sicilia,no,3,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+POLLINA,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+PRIZZI,PA,Sicilia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+ROCCAMENA,PA,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+SAN CIPIRELLO,PA,Sicilia,no,12,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+SAN GIUSEPPE JATO,PA,Sicilia,si,34,,Xml,si,si,si,si,si,no,si,no,si,no,no,PA,Palermo,38.1167,13.35
+SANTA CRISTINA GELA,PA,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+SANTA FLAVIA,PA,Sicilia,no,23,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+TERMINI IMERESE,PA,Sicilia,si,80,2020-02-20,Immagine,si,si,si,no,si,si,no,no,si,no,no,PA,Palermo,38.1167,13.35
+TERRASINI,PA,Sicilia,si,83,2017-02-24,Immagine,si,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+TORRETTA,PA,Sicilia,no,16,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+TRABIA,PA,Sicilia,si,101,,Xls,si,si,si,si,si,si,si,si,si,si,si,PA,Palermo,38.1167,13.35
+TRAPPETO,PA,Sicilia,si,6,2018-05-16,Immagine,si,si,si,no,si,no,no,si,si,no,no,PA,Palermo,38.1167,13.35
+VENTIMIGLIA DI SICILIA,PA,Sicilia,no,7,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+VICARI,PA,Sicilia,no,7,,,si,si,si,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+VILLABATE,PA,Sicilia,si,50,,Xml,si,si,si,si,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+VILLAFRATI,PA,Sicilia,no,8,,,no,no,no,no,no,no,no,no,no,no,no,PA,Palermo,38.1167,13.35
+ACATE,RG,Sicilia,no,14,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+CHIARAMONTE GULFI,RG,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+COMISO,RG,Sicilia,no,4,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+MODICA,RG,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+POZZALLO,RG,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+RAGUSA,RG,Sicilia,si,19,2018-09-02,Pdf - Ricercabile,si,no,si,no,no,no,no,no,si,si,no,RG,Ragusa,36.9333,14.7333
+SANTA CROCE CAMERINA,RG,Sicilia,no,6,,,no,no,no,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+SCICLI,RG,Sicilia,no,11,,,si,si,si,no,no,no,no,no,no,no,no,RG,Ragusa,36.9333,14.7333
+VITTORIA,RG,Sicilia,si,43,2011-11-29,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,no,si,RG,Ragusa,36.9333,14.7333
+AUGUSTA,SR,Sicilia,si,3,2017-01-01,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+AVOLA,SR,Sicilia,no,26,,,no,no,no,no,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+CARLENTINI,SR,Sicilia,si,4,,Pdf - Ricercabile,si,si,si,no,no,no,no,si,si,si,no,SR,Siracusa,37.0667,15.2833
+FLORIDIA,SR,Sicilia,si,3,2019-03-21,Pdf - Ricercabile,si,si,si,no,no,no,si,si,si,no,no,SR,Siracusa,37.0667,15.2833
+FRANCOFONTE,SR,Sicilia,no,8,,,no,no,no,no,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+LENTINI,SR,Sicilia,no,22,,,si,si,no,si,no,si,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+MELILLI,SR,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+NOTO,SR,Sicilia,si,48,2020-08-26,Pdf - Ricercabile,si,si,si,no,no,si,si,no,si,si,no,SR,Siracusa,37.0667,15.2833
+PACHINO,SR,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+PRIOLO GARGALLO,SR,Sicilia,no,4,,,no,si,no,no,si,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+ROSOLINI,SR,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SR,Siracusa,37.0667,15.2833
+SIRACUSA,SR,Sicilia,si,24,2015-10-29,Pdf - Ricercabile,no,si,si,no,si,no,si,no,si,no,no,SR,Siracusa,37.0667,15.2833
+ALCAMO,TP,Sicilia,si,68,2020-08-10,Pdf - Ricercabile,si,si,si,no,si,si,no,no,si,si,no,TP,Trapani,38.0167,12.5333
+BUSETO PALIZZOLO,TP,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+CAMPOBELLO DI MAZARA,TP,Sicilia,si,30,,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,no,TP,Trapani,38.0167,12.5333
+CASTELLAMMARE DEL GOLFO,TP,Sicilia,si,40,2019-03-11,Immagine,si,si,si,no,si,si,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+CASTELVETRANO,TP,Sicilia,si,130,2018-11-01,Pdf - Ricercabile,si,si,no,si,si,si,no,si,si,si,no,TP,Trapani,38.0167,12.5333
+CUSTONACI,TP,Sicilia,no,29,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+ERICE,TP,Sicilia,si,27,2013-11-19,Pdf - Ricercabile,si,si,si,si,no,no,si,si,si,si,no,TP,Trapani,38.0167,12.5333
+FAVIGNANA,TP,Sicilia,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+MARSALA,TP,Sicilia,si,35,2020-07-10,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,no,TP,Trapani,38.0167,12.5333
+MAZARA DEL VALLO,TP,Sicilia,si,68,2017-05-13,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,no,TP,Trapani,38.0167,12.5333
+PACECO,TP,Sicilia,no,15,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+PANTELLERIA,TP,Sicilia,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+PARTANNA,TP,Sicilia,si,44,2015-06-19,Doc,si,si,si,si,no,no,si,no,no,no,no,TP,Trapani,38.0167,12.5333
+SALEMI,TP,Sicilia,si,7,2016-12-31,Pdf - Immagine,si,si,si,si,no,si,si,si,si,si,no,TP,Trapani,38.0167,12.5333
+SAN VITO LO CAPO,TP,Sicilia,si,21,2019-02-19,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,si,no,TP,Trapani,38.0167,12.5333
+TRAPANI,TP,Sicilia,si,25,2020-02-20,Pdf - Ricercabile,si,si,si,si,si,no,si,no,si,no,no,TP,Trapani,38.0167,12.5333
+VALDERICE,TP,Sicilia,no,27,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+VITA,TP,Sicilia,no,5,,,no,no,no,no,no,no,no,no,no,no,no,TP,Trapani,38.0167,12.5333
+MARCIANO DELLA CHIANA,AR,Toscana,no,39,,,no,no,no,no,no,no,no,no,no,no,no,AR,Arezzo,43.4667,11.8833
+TERRANUOVA BRACCIOLINI,AR,Toscana,si,4,2020-07-14,Pdf - Ricercabile,si,si,si,si,no,si,no,no,no,no,no,AR,Arezzo,43.4667,11.8833
+CAMPI BISENZIO,FI,Toscana,si,2,,,si,si,no,si,si,si,si,si,no,no,no,FI,Firenze,43.7667,11.25
+FIRENZE,FI,Toscana,si,6,,Pdf - Ricercabile,si,no,si,si,si,si,si,no,no,no,no,FI,Firenze,43.7667,11.25
+MONTE ARGENTARIO,GR,Toscana,no,7,,,no,no,no,no,no,no,no,no,no,no,no,GR,Grosseto,42.7667,11.1167
+ROSIGNANO MARITTIMO,LI,Toscana,no,1,,,no,no,no,no,no,no,no,no,no,no,no,LI,Livorno,43.55,10.3167
+ALTOPASCIO,LU,Toscana,si,5,,Ods,si,si,si,no,no,no,no,no,no,no,no,LU,Lucca,43.85,10.5167
+FORTE DEI MARMI,LU,Toscana,no,2,,,no,no,no,no,no,no,no,no,no,no,no,LU,Lucca,43.85,10.5167
+LUCCA,LU,Toscana,no,3,,,no,no,no,no,no,no,no,no,no,no,no,LU,Lucca,43.85,10.5167
+VIAREGGIO,LU,Toscana,si,3,2020-10-22,Pdf - Ricercabile,si,si,si,si,si,si,no,no,si,no,no,LU,Lucca,43.85,10.5167
+LICCIANA NARDI,MS,Toscana,no,2,,,no,no,no,no,no,no,no,no,no,no,no,MS,Massa,44.3333,10.0833
+MASSA,MS,Toscana,no,5,,,no,no,no,no,no,no,no,no,no,no,no,MS,Massa,44.3333,10.0833
+MONTIGNOSO,MS,Toscana,no,6,,,no,no,no,no,no,no,no,no,no,no,no,MS,Massa,44.3333,10.0833
+CASCINA,PI,Toscana,si,1,,Tabella online non scaricabile,si,si,si,si,si,si,si,si,si,si,si,PI,Pisa,43.7167,10.4
+MONTOPOLI IN VAL D'ARNO,PI,Toscana,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PI,Pisa,43.7167,10.4
+MONTEMURLO,PO,Toscana,no,3,,,no,no,no,no,no,no,no,no,no,no,no,PO,Prato,43.8833,11.1
+VAIANO,PO,Toscana,no,3,,,no,no,no,no,no,no,no,no,no,no,no,PO,Prato,43.8833,11.1
+BUGGIANO,PT,Toscana,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PT,Pistoia,43.9333,10.9167
+LARCIANO,PT,Toscana,no,9,,,no,no,no,no,no,no,no,no,no,no,no,PT,Pistoia,43.9333,10.9167
+MASSA E COZZILE,PT,Toscana,no,1,,,no,no,no,no,no,no,no,no,no,no,no,PT,Pistoia,43.9333,10.9167
+MONTALE,PT,Toscana,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PT,Pistoia,43.9333,10.9167
+MONTECATINI-TERME,PT,Toscana,si,13,2020-10-22,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,no,PT,Pistoia,43.9333,10.9167
+CHIANCIANO TERME,SI,Toscana,no,4,,,no,no,no,no,no,no,no,no,no,no,no,SI,Siena,43.3167,11.3
+RADDA IN CHIANTI,SI,Toscana,si,1,2020-10-22,Pdf - Immagine,si,no,si,no,si,no,no,no,no,no,no,SI,Siena,43.3167,11.3
+RADICOFANI,SI,Toscana,no,1,,,no,no,no,no,no,no,no,no,no,no,no,SI,Siena,43.3167,11.3
+MEZZANA,TN,Trentino Alto Adige,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TN,Trento,46.0667,11.1333
+RIVA DEL GARDA,TN,Trentino Alto Adige,si,1,,Pdf - Immagine,si,no,si,si,si,si,si,no,si,no,si,TN,Trento,46.0667,11.1333
+STREMBO,TN,Trentino Alto Adige,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TN,Trento,46.0667,11.1333
+TRENTO,TN,Trentino Alto Adige,no,13,,,no,no,no,no,no,no,no,no,no,no,no,TN,Trento,46.0667,11.1333
+BASTIA UMBRA,PG,Umbria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PG,Perugia,43.1167,12.4
+MASSA MARTANA,PG,Umbria,no,4,,,no,no,no,no,no,no,no,no,no,no,no,PG,Perugia,43.1167,12.4
+PERUGIA,PG,Umbria,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PG,Perugia,43.1167,12.4
+PIETRALUNGA,PG,Umbria,no,28,,,no,no,no,no,no,no,no,no,no,no,no,PG,Perugia,43.1167,12.4
+SPOLETO,PG,Umbria,no,5,,,no,no,no,no,no,no,no,no,no,no,no,PG,Perugia,43.1167,12.4
+ACQUASPARTA,TR,Umbria,no,1,,,no,si,no,no,no,no,no,no,no,no,no,TR,Terni,42.5667,12.6667
+TERNI,TR,Umbria,si,1,2017-12-14,Pdf - Ricercabile,si,si,si,si,si,si,no,no,no,no,no,TR,Terni,42.5667,12.6667
+CHALLAND-SAINT-VICTOR,AO,Valle D'Aosta,no,7,,,no,no,no,no,no,no,no,no,no,no,no,AO,Aosta,45.7333,7.3167
+BELLUNO,BL,Veneto,si,6,2020-09-02,Ods,si,si,no,no,si,si,si,si,no,no,no,BL,Belluno,46.1333,12.2167
+PADOVA,PD,Veneto,no,5,,,no,no,no,no,no,no,no,no,no,no,no,PD,Padova,45.4,11.8833
+SACCOLONGO,PD,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,PD,Padova,45.4,11.8833
+BADIA POLESINE,RO,Veneto,si,3,2020-10-16,Pdf - Immagine,si,no,no,no,si,si,no,si,no,no,si,RO,Rovigo,45.0667,11.8
+PAESE,TV,Veneto,si,3,2019-10-25,Pdf - Immagine,si,si,no,no,no,no,si,no,no,no,no,TV,Treviso,45.6667,12.25
+SUSEGANA,TV,Veneto,no,1,,,no,no,no,no,no,no,no,no,no,no,no,TV,Treviso,45.6667,12.25
+TREVIGNANO,TV,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,TV,Treviso,45.6667,12.25
+CAMPAGNA LUPIA,VE,Veneto,si,3,2017-02-08,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,si,si,VE,Venezia,45.4333,12.35
+CAMPOLONGO MAGGIORE,VE,Veneto,no,12,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+CAMPONOGARA,VE,Veneto,no,5,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+CAORLE,VE,Veneto,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+JESOLO,VE,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+SALZANO,VE,Veneto,no,9,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+SAN MICHELE AL TAGLIAMENTO,VE,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+STRA,VE,Veneto,no,3,,,no,no,no,no,no,no,no,no,no,no,no,VE,Venezia,45.4333,12.35
+VENEZIA,VE,Veneto,si,3,,Pdf - Ricercabile,no,si,no,no,si,si,si,no,no,no,no,VE,Venezia,45.4333,12.35
+BASSANO DEL GRAPPA,VI,Veneto,si,2,2019-05-01,Pdf - Ricercabile,no,si,si,si,si,si,si,no,no,no,no,VI,Vicenza,45.55,11.55
+CASSOLA,VI,Veneto,si,1,2020-01-01,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,si,si,VI,Vicenza,45.55,11.55
+GALLIO,VI,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VI,Vicenza,45.55,11.55
+MONTEBELLO VICENTINO,VI,Veneto,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VI,Vicenza,45.55,11.55
+VALDAGNO,VI,Veneto,no,4,,,no,no,no,no,no,no,no,no,no,no,no,VI,Vicenza,45.55,11.55
+BUSSOLENGO,VR,Veneto,no,26,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+CASTEL D'AZZANO,VR,Veneto,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+CEREA,VR,Veneto,no,4,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+GAZZO VERONESE,VR,Veneto,no,2,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+ISOLA DELLA SCALA,VR,Veneto,si,1,2018-09-06,Pdf - Immagine,no,si,si,si,si,si,si,no,si,si,no,VR,Verona,45.45,11.0
+OPPEANO,VR,Veneto,no,1,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+PESCHIERA DEL GARDA,VR,Veneto,no,3,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+SAN GIOVANNI LUPATOTO,VR,Veneto,no,3,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+SANGUINETTO,VR,Veneto,no,5,,,no,no,no,no,no,no,no,no,no,no,no,VR,Verona,45.45,11.0
+VERONA,VR,Veneto,si,6,2020-09-16,Pdf - Ricercabile,si,si,si,no,si,si,si,si,si,si,si,VR,Verona,45.45,11.0

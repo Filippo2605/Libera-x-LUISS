@@ -1,0 +1,115 @@
+Comune,Provincia,Regione,Elenco pubblicato?,Numero beni trasferiti da Openregio,"Data di pubblicazione, se disponibile",Formato di pubblicazione,"Sono indicati foglio, particella e subpartice","Tipologia dell'immobile È indicato, per ogni bene, se si tratta di un terreno, una villa, un appartamento, un box, un fabbricato rurale ecc.?",Ubicazione È indicato l'indirizzo e il numero civico di ogni bene?, È indicata la consistenza del bene in mq o in ettari?,È specificata quale sia la destinazione del bene tra istituzionale e sociale?,Utilizzazione 1 - È specificato se il bene è già riutilizzato?,Utilizzazione 2 - È indicato l'utilizzo specifico?,È indicata la ragione sociale specifica del soggetto gestore?, È inserito un riferimento all'atto amministrativo di concessione?,È indicato l'oggetto dell'atto di concessione?, È specificata la durata dell'affidamento al concessionario?
+Acerra,,Campania,si,4,2019-12-31,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no
+Afragola,,Campania,si,71,2020-03-03,Pdf - Ricercabile,si,si,no,si,si,si,no,no,si,no,no
+Arzano,,Campania,si,12,2018-03-28,Doc,si,si,si,no,no,no,no,no,no,no,no
+Bacoli,,Campania,si,24,2019-10-15,Pdf - Immagine,no,si,si,no,si,si,no,si,no,no,no
+Boscoreale,,Campania,no,33,,,no,no,no,no,no,no,no,no,no,no,no
+Boscotrecase,,Campania,no,14,,,no,no,no,no,no,no,no,no,no,no,no
+Caivano,,Campania,no,30,,,no,no,no,no,no,no,no,no,no,no,no
+Cardito,,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no
+Casalnuovo di Napoli,,Campania,si,41,2018-03-28,Pdf - Ricercabile,si,si,si,si,no,si,no,si,si,no,no
+Casamarciano,,Campania,no,15,,,no,no,no,no,no,no,no,no,no,no,no
+Casamicciola Terme,,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Casandrino,,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Casoria,,Campania,no,55,,,no,no,no,no,no,no,no,no,no,no,no
+Castellammare di Stabia,,Campania,si,21,,Pdf - Ricercabile,si,no,no,no,no,si,no,si,no,no,si
+Castello di Cisterna,,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Comiziano,,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Ercolano,,Campania,si,18,,Pdf - Ricercabile,si,si,si,si,no,si,si,si,si,no,no
+Frattaminore,,Campania,si,4,2015-12-23,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no
+Giugliano in Campania,,Campania,si,133,2019-06-30,Pdf - Ricercabile,si,si,si,no,no,si,no,si,si,si,si
+Ischia,,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Marano di Napoli,,Campania,no,144,,,no,no,no,no,no,no,no,no,no,no,no
+Melito di Napoli,,Campania,si,159,2019-01-17,Pdf - Ricercabile,si,no,no,si,no,no,no,no,no,no,no
+Napoli,,Campania,si,271,2020-06-30,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,no,si
+Nola,,Campania,no,19,,,no,no,no,no,no,no,no,no,no,no,no
+Ottaviano,,Campania,no,8,,,no,no,no,no,no,no,no,no,no,no,no
+Palma Campania,,Campania,no,9,,,no,no,no,no,no,no,no,no,no,no,no
+Poggiomarino,,Campania,no,12,,,no,no,no,no,no,no,no,no,no,no,no
+Pollena Trocchia,,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Pomigliano d'Arco,,Campania,no,24,,,no,no,no,no,no,no,no,no,no,no,no
+Pompei,,Campania,si,24,,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,no,no
+Portici,,Campania,no,16,,,no,no,no,no,no,no,no,no,no,no,no
+Pozzuoli,,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Qualiano,,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Quarto,,Campania,si,74,,Pdf - Immagine,si,si,si,si,no,si,si,no,no,no,no
+San Gennaro Vesuviano,,Campania,no,30,,,no,no,no,no,no,no,no,no,no,no,no
+San Giorgio a Cremano,,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no
+San Giuseppe Vesuviano,,Campania,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+San Sebastiano al Vesuvio,,Campania,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Santa Maria la Carità,,Campania,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Sant'Antimo,,Campania,no,123,,,no,no,no,no,no,no,no,no,no,no,no
+Saviano,,Campania,no,6,,,no,no,no,no,no,no,no,no,no,no,no
+Somma Vesuviana,,Campania,si,2,2020-09-23,Xls,si,no,si,no,no,si,si,si,si,no,si
+Striano,,Campania,si,1,,Xls,si,si,si,si,si,si,si,no,no,no,no
+Torre Annunziata,,Campania,si,53,2019-03-27,Csv,si,no,si,no,no,si,no,no,si,no,no
+Torre del Greco,,Campania,no,9,,,no,no,no,no,no,no,no,no,no,no,no
+Trecase,,Campania,si,13,,Pdf - Immagine,si,si,si,si,si,si,si,si,no,no,si
+Villaricca,,Campania,no,10,,,no,no,no,no,no,no,no,no,no,no,no
+Volla,,Campania,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Cesena,FC,Emilia Romagna,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Cesenatico,FC,Emilia Romagna,si,2,2020-03-31,Doc,si,si,si,si,si,no,no,no,no,no,no
+Forlì,FC,Emilia Romagna,si,16,2019-05-21,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no
+Forlimpopoli,FC,Emilia Romagna,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Gatteo,FC,Emilia Romagna,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+San Mauro Pascoli,FC,Emilia Romagna,si,2,2013-06-06,Pdf - Ricercabile,si,si,si,si,si,si,si,no,si,no,no
+Albano Laziale,RM,Lazio,si,2,,Pdf - Immagine,si,si,si,si,no,si,no,no,si,no,no
+Anzio,RM,Lazio,si,10,2020-10-29,Xls,si,si,si,no,si,si,no,si,no,no,no
+Ardea,RM,Lazio,si,10,2020-10-29,Pdf - Immagine,si,si,si,no,si,si,no,no,no,no,no
+Ariccia,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Artena,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Capena,RM,Lazio,si,2,2018-07-19,Pdf - Ricercabile,si,si,si,no,si,no,no,no,si,si,no
+Castel Gandolfo,RM,Lazio,si,1,2019-12-17,Xml,no,no,no,no,no,no,no,no,no,no,no
+Cave,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Cerveteri,RM,Lazio,si,5,2018-01-10,,si,si,si,no,si,si,si,no,no,no,no
+Ciampino,RM,Lazio,si,7,2019-12-31,Pdf - Ricercabile,si,si,si,si,si,si,si,no,no,no,no
+Fiano Romano,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Fiumicino,RM,Lazio,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Fonte Nuova,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Formello,RM,Lazio,si,3,2018-01-15,,si,no,si,no,no,si,no,si,no,no,no
+Frascati,RM,Lazio,si,4,2018-01-24,Xls,si,si,si,si,si,si,si,si,si,si,si
+Genzano di Roma,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Grottaferrata,RM,Lazio,si,12,2020-08-18,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no
+Guidonia Montecelio,RM,Lazio,si,3,2019-03-28,Pdf - Ricercabile,si,si,si,no,no,no,no,no,no,no,no
+Ladispoli,RM,Lazio,no,8,,,no,no,no,no,no,no,no,no,no,no,no
+Lariano,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Marino,RM,Lazio,si,14,2019-12-30,Pdf - Ricercabile,si,si,si,si,no,si,si,si,si,si,si
+Mentana,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Monte Compatri,RM,Lazio,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Monterotondo,RM,Lazio,si,12,2018-01-05,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no
+Nettuno,RM,Lazio,si,4,2020-05-25,Pdf - Ricercabile,si,si,si,no,no,si,no,no,no,no,no
+Pomezia,RM,Lazio,si,29,2018-01-22,Pdf - Ricercabile,no,no,no,no,si,si,no,no,si,si,si
+Rignano Flaminio,RM,Lazio,si,3,2018-02-06,Pdf - Ricercabile,si,si,si,si,si,si,si,si,no,no,no
+Rocca Priora,RM,Lazio,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Roma,RM,Lazio,si,283,2020-07-23,Ods,si,si,si,si,si,si,si,si,si,no,no
+Sacrofano,RM,Lazio,no,8,,,no,no,no,no,no,no,no,no,no,no,no
+Santa Marinella,RM,Lazio,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Sant'Oreste,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Tivoli,RM,Lazio,no,9,,,no,no,no,no,no,no,no,no,no,no,no
+Vallepietra,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Valmontone,RM,Lazio,si,5,2017-12-22,Pdf - Ricercabile,si,si,si,si,no,no,no,no,no,no,no
+Velletri,RM,Lazio,no,10,,,no,no,no,no,no,no,no,no,no,no,no
+Zagarolo,RM,Lazio,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Arcore,MB,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Brugherio,MB,Lombardia,si,3,2019-07-03,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,si
+Carate Brianza,MB,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Desio,MB,Lombardia,si,11,2020-07-27,Pdf - Ricercabile,no,si,si,si,si,si,si,si,si,si,si
+Lesmo,MB,Lombardia,no,6,,,no,no,no,no,no,no,no,no,no,no,no
+Limbiate,MB,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Monza,MB,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Muggiò,MB,Lombardia,no,37,,,no,no,no,no,no,no,no,no,no,no,no
+Nova Milanese,MB,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Seregno,MB,Lombardia,si,1,2019-12-31,Pdf - Ricercabile,si,si,si,si,si,si,si,si,si,si,no
+Seveso,MB,Lombardia,no,2,,,no,no,no,no,no,no,no,no,no,no,no
+Vedano al Lambro,MB,Lombardia,no,4,,,no,no,no,no,no,no,no,no,no,no,no
+Vimercate,MB,Lombardia,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Fano,PU,Marche,si,7,2015-11-10,Pdf - Ricercabile,si,no,si,no,no,no,no,no,no,no,no
+Isola del Piano,PU,Marche,si,4,2017-02-24,Pdf - Ricercabile,si,si,si,si,si,si,no,si,si,si,no
+Andria,BT,Puglia,no,3,,,no,no,no,no,no,no,no,no,no,no,no
+Barletta,BT,Puglia,no,1,,,no,no,no,no,no,no,no,no,no,no,no
+Canosa di Puglia,BT,Puglia,no,9,,,no,no,no,no,no,no,no,no,no,no,no
+Iglesias,CI,Sardegna,si,1,2019-04-08,Pdf - Ricercabile,si,si,no,si,si,no,no,no,no,no,no
+Arzachena,OT,Sardegna,no,5,,,no,no,no,no,no,no,no,no,no,no,no
+Golfo Aranci,OT,Sardegna,no,6,,,no,no,no,no,no,no,no,no,no,no,no
+Loiri Porto San Paolo,OT,Sardegna,no,15,,,no,no,no,no,no,no,no,no,no,no,no
+Olbia,OT,Sardegna,no,26,,,no,no,no,no,no,no,no,no,no,no,no

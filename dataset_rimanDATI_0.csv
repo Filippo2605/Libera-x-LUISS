@@ -1,0 +1,1077 @@
+Comune;Provincia;Regione;Elenco pubblicato?;Numero beni trasferiti da Openregio;Data di pubblicazione, se disponibile;Formato di pubblicazione;Sono indicati foglio, particella e subpartice;Tipologia dell'immobile È indicato, per ogni bene, se si tratta di un terreno, una villa, un appartamento, un box, un fabbricato rurale ecc.?;Ubicazione È indicato l'indirizzo e il numero civico di ogni bene?; È indicata la consistenza del bene in mq o in ettari?;È specificata quale sia la destinazione del bene tra istituzionale e sociale?;Utilizzazione 1 - È specificato se il bene è già riutilizzato?;Utilizzazione 2 - È indicato l'utilizzo specifico?;È indicata la ragione sociale specifica del soggetto gestore?; È inserito un riferimento all'atto amministrativo di concessione?;È indicato l'oggetto dell'atto di concessione?; È specificata la durata dell'affidamento al concessionario?
+Anversa degli Abruzzi;AQ;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Avezzano;AQ;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Castel di Sangro;AQ;Abruzzo;si;1;2017-05-18;Pdf - Immagine;si;si;si;no;si;si;si;no;si;si;si
+Ovindoli;AQ;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pescasseroli;AQ;Abruzzo;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Pescocostanzo;AQ;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Rivisondoli;AQ;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Scurcola Marsicana;AQ;Abruzzo;si;3;2020-03-09;;si;si;si;si;no;si;no;no;no;no;no
+Tagliacozzo;AQ;Abruzzo;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Frisa;CH;Abruzzo;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Lanciano;CH;Abruzzo;si;5;2019-12-17;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;si;si
+Pizzoferrato;CH;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Giovanni Teatino;CH;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+San Vito Chietino;CH;Abruzzo;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Maria Imbaro;CH;Abruzzo;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Vasto;CH;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Città Sant'Angelo;PE;Abruzzo;si;4;2014-11-03;Pdf - Ricercabile;si;si;no;si;si;no;no;no;no;no;no
+Montesilvano;PE;Abruzzo;si;7;2018-12-01;Pdf - Ricercabile;si;si;si;no;si;si;no;si;si;si;no
+Pescara;PE;Abruzzo;si;30;2020-07-08;Pdf - Ricercabile;si;si;si;si;no;si;no;no;no;no;no
+Torre de' Passeri;PE;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Alba Adriatica;TE;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Basciano;TE;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Campli;TE;Abruzzo;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Canzano;TE;Abruzzo;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Castellalto;TE;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Martinsicuro;TE;Abruzzo;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Mosciano Sant'Angelo;TE;Abruzzo;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Roseto degli Abruzzi;TE;Abruzzo;si;1;;Pdf - Immagine;si;no;si;no;si;si;no;no;no;no;no
+Silvi;TE;Abruzzo;si;4;2018-12-05;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Teramo;TE;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Tortoreto;TE;Abruzzo;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Matera;MT;Basilicata;si;6;;Csv;no;si;si;no;si;no;no;no;si;si;si
+Palazzo San Gervasio;PZ;Basilicata;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Potenza;PZ;Basilicata;si;2;2017-12-01;Pdf - Ricercabile;si;si;si;si;no;no;si;no;no;no;no
+Altomonte;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Amantea;CS;Calabria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Belmonte Calabro;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Belvedere Marittimo;CS;Calabria;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Cariati;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cassano all'Ionio;CS;Calabria;si;51;;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;no;si
+Castrovillari;CS;Calabria;si;3;2017-05-25;Pdf - Ricercabile;si;si;si;si;no;no;no;si;si;no;no
+Corigliano Rossano;CS;Calabria;si;19;2019-07-24;Pdf - Ricercabile;no;si;si;no;no;no;no;si;si;no;si
+Cosenza;CS;Calabria;si;8;2019-07-22;Pdf - Ricercabile;si;si;si;si;no;no;no;no;si;si;si
+Diamante;CS;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Fiumefreddo Bruzio;CS;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Fuscaldo;CS;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Maierà;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Marano Principato;CS;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Mendicino;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Rende;CS;Calabria;si;8;;Immagine;si;si;si;no;si;no;si;no;si;no;no
+Roseto Capo Spulico;CS;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+San Fili;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Nicola Arcella;CS;Calabria;no;47;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Maria del Cedro;CS;Calabria;si;5;2017-12-01;Pdf - Ricercabile;si;si;no;no;no;no;si;no;si;si;no
+Scalea;CS;Calabria;no;30;;;no;no;no;no;no;no;no;no;no;no;no
+Trebisacce;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Villapiana;CS;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Botricello;CZ;Calabria;no;11;;;no;no;no;no;no;no;no;no;no;no;no
+Catanzaro;CZ;Calabria;si;22;2019-03-05;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;si;no
+Conflenti;CZ;Calabria;si;3;2019-11-13;Pdf - Ricercabile;no;si;si;no;si;no;no;no;no;no;no
+Cropani;CZ;Calabria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Curinga;CZ;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Davoli;CZ;Calabria;si;2;;Immagine;si;si;no;no;si;no;no;no;si;no;no
+Guardavalle;CZ;Calabria;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Lamezia Terme;CZ;Calabria;si;212;2020-09-19;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;no;si
+Magisano;CZ;Calabria;no;31;;;no;no;no;no;no;no;no;no;no;no;no
+Maida;CZ;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Nocera Terinese;CZ;Calabria;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+San Sostene;CZ;Calabria;si;3;2019-07-30;Immagine;si;si;si;no;si;no;no;no;si;no;no
+Satriano;CZ;Calabria;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Sellia Marina;CZ;Calabria;si;4;;Tabella online non scaricabile;si;si;si;no;si;si;no;no;no;no;no
+Simeri Crichi;CZ;Calabria;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Soverato;CZ;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Taverna;CZ;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cirò;KR;Calabria;si;24;2018-10-04;Immagine;no;si;si;no;si;no;si;si;si;no;no
+Cirò Marina;KR;Calabria;si;5;2018-12-31;Pdf - Ricercabile;si;no;si;si;no;no;no;no;si;no;no
+Cotronei;KR;Calabria;si;1;2018-04-27;Xls;si;si;si;si;no;si;no;no;no;no;no
+Crotone;KR;Calabria;si;18;2017-10-01;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;no;no
+Crucoli;KR;Calabria;si;9;2018-08-21;Pdf - Ricercabile;si;si;si;no;si;no;no;si;si;no;si
+Cutro;KR;Calabria;si;7;2018-10-16;Immagine;si;si;si;si;no;si;si;no;no;no;no
+Isola di Capo Rizzuto;KR;Calabria;si;33;2019-09-30;Pdf - Ricercabile;si;si;si;si;no;no;si;si;no;no;si
+Melissa;KR;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Petilia Policastro;KR;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Severina;KR;Calabria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Strongoli;KR;Calabria;si;2;;Immagine;si;si;si;si;no;no;no;no;no;no;no
+Africo;RC;Calabria;si;26;2016-12-20;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;si;no
+Anoia;RC;Calabria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Ardore;RC;Calabria;si;4;2018-07-01;Pdf - Ricercabile;no;no;no;si;si;no;si;no;si;no;no
+Bagnara Calabra;RC;Calabria;si;7;2016-03-24;Immagine;si;si;no;no;no;no;no;no;no;no;no
+Benestare;RC;Calabria;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Bianco;RC;Calabria;no;27;;;no;no;no;no;no;no;no;no;no;no;no
+Bova Marina;RC;Calabria;si;14;;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;no;no
+Bovalino;RC;Calabria;si;41;;Immagine;si;si;si;si;si;no;si;si;si;si;no
+Brancaleone;RC;Calabria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Bruzzano Zeffirio;RC;Calabria;si;2;2011-04-26;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;no
+Camini;RC;Calabria;si;1;;Immagine;si;si;si;si;no;no;no;no;no;no;no
+Campo Calabro;RC;Calabria;si;10;2019-01-31;Immagine;si;si;no;si;si;no;si;si;si;si;no
+Candidoni;RC;Calabria;no;20;;;si;si;si;no;si;no;no;no;no;no;no
+Canolo;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Caraffa del Bianco;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cardeto;RC;Calabria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Careri;RC;Calabria;si;5;2013-03-09;Immagine;si;si;si;si;si;no;no;no;si;no;no
+Casignana;RC;Calabria;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Caulonia;RC;Calabria;si;12;2019-02-08;Immagine;si;si;si;no;no;no;no;no;no;no;no
+Cinquefrondi;RC;Calabria;no;38;;;no;si;si;no;no;no;no;no;no;no;no
+Cittanova;RC;Calabria;no;25;;;no;no;no;no;no;no;no;no;no;no;no
+Condofuri;RC;Calabria;si;9;;Tabella online non scaricabile;si;si;si;si;si;no;no;si;si;si;si
+Ferruzzano;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Fiumara;RC;Calabria;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Galatro;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Giffone;RC;Calabria;no;53;;;no;no;no;no;no;no;no;no;no;no;no
+Gioia Tauro;RC;Calabria;si;110;;Immagine;si;si;si;si;si;si;no;si;si;no;no
+Gioiosa Ionica;RC;Calabria;si;61;2020-09-19;Pdf - Ricercabile;si;si;no;si;si;si;si;no;si;no;no
+Grotteria;RC;Calabria;no;23;;;no;no;no;no;no;no;no;no;no;no;no
+Laureana di Borrello;RC;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Locri;RC;Calabria;no;48;;;no;no;no;no;no;no;no;no;no;no;no
+Marina di Gioiosa Ionica;RC;Calabria;si;74;2020-09-22;Pdf - Ricercabile;no;si;si;no;si;si;si;no;si;si;no
+Maropati;RC;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Melicucco;RC;Calabria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Melito di Porto Salvo;RC;Calabria;no;52;;;no;no;no;no;no;no;no;no;no;no;no
+Molochio;RC;Calabria;no;39;;;no;no;no;no;no;no;no;no;no;no;no
+Monasterace;RC;Calabria;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Montebello Ionico;RC;Calabria;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+Motta San Giovanni;RC;Calabria;si;12;2018-05-03;Immagine;si;si;si;si;si;si;no;si;si;si;no
+Oppido Mamertina;RC;Calabria;no;103;;;no;si;si;no;no;no;no;no;no;no;no
+Palizzi;RC;Calabria;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Palmi;RC;Calabria;si;45;2018-08-20;Pdf - Ricercabile;si;si;si;no;si;no;si;si;si;no;no
+Platì;RC;Calabria;no;37;;;no;no;no;no;no;no;no;no;no;no;no
+Polistena;RC;Calabria;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Reggio di Calabria;RC;Calabria;si;487;;Tabella online non scaricabile;si;si;si;si;si;si;si;no;si;si;no
+Riace;RC;Calabria;no;24;;;no;no;no;no;no;no;no;no;no;no;no
+Rizziconi;RC;Calabria;si;50;2015-03-11;Pdf - Ricercabile;no;si;si;si;no;no;si;no;si;si;si
+Roccella Ionica;RC;Calabria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Roghudi;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Rosarno;RC;Calabria;si;116;2020-08-17;Pdf - Ricercabile;si;si;si;no;no;si;si;si;si;no;no
+San Ferdinando;RC;Calabria;si;20;;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;si;si
+San Lorenzo;RC;Calabria;si;12;2018-12-20;Pdf - Ricercabile;si;si;si;si;no;si;no;no;si;no;no
+San Luca;RC;Calabria;si;4;2014-05-01;Pdf - Ricercabile;si;si;no;si;si;no;si;si;si;si;no
+San Procopio;RC;Calabria;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+San Roberto;RC;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Alessio in Aspromonte;RC;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Eufemia d'Aspromonte;RC;Calabria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Ilario dello Ionio;RC;Calabria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Santo Stefano in Aspromonte;RC;Calabria;si;16;;Pdf - Ricercabile;si;si;si;no;no;no;no;no;no;no;no
+Seminara;RC;Calabria;no;40;;;no;no;no;no;no;no;no;no;no;no;no
+Siderno;RC;Calabria;si;94;2020-09-24;Pdf - Ricercabile;si;si;si;no;si;no;si;si;si;no;no
+Sinopoli;RC;Calabria;si;50;2015-01-18;Xml;si;si;si;si;si;no;no;si;si;no;si
+Stignano;RC;Calabria;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Stilo;RC;Calabria;si;19;2018-01-01;Pdf - Ricercabile;si;si;no;si;si;si;no;no;no;no;no
+Taurianova;RC;Calabria;si;34;2019-01-01;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;si;no
+Terranova Sappo Minulio;RC;Calabria;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Varapodio;RC;Calabria;no;24;;;no;no;no;no;no;no;no;no;no;no;no
+Villa San Giovanni;RC;Calabria;si;29;2019-07-16;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;si;no
+Briatico;VV;Calabria;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Dinami;VV;Calabria;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Drapia;VV;Calabria;si;2;;Pdf - Ricercabile;si;si;si;no;si;no;no;no;si;no;no
+Filandari;VV;Calabria;no;3;;;si;si;si;si;no;no;no;no;no;no;no
+Ionadi;VV;Calabria;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Limbadi;VV;Calabria;si;12;2018-07-01;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;si;no
+Mileto;VV;Calabria;no;6;;;si;si;si;no;no;no;no;no;no;no;no
+Nicotera;VV;Calabria;no;20;;;si;si;si;si;si;no;si;no;no;no;no
+Parghelia;VV;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Ricadi;VV;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Rombiolo;VV;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Calogero;VV;Calabria;no;13;;;si;si;si;si;no;no;si;si;no;no;no
+San Gregorio d'Ippona;VV;Calabria;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Serra San Bruno;VV;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Soriano Calabro;VV;Calabria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Tropea;VV;Calabria;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Vibo Valentia;VV;Calabria;si;19;2017-08-07;Pdf - Ricercabile;si;si;si;no;si;no;si;si;si;no;si
+Zaccanopoli;VV;Calabria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Zambrone;VV;Calabria;no;11;;;no;no;no;no;no;no;no;no;no;no;no
+Zungri;VV;Calabria;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Avella;AV;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Contrada;AV;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Monteforte Irpino;AV;Campania;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Quindici;AV;Campania;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+San Martino Valle Caudina;AV;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Angelo a Scala;AV;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Santo Stefano del Sole;AV;Campania;si;2;;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;no;no
+Summonte;AV;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Taurasi;AV;Campania;no;25;;;no;no;no;no;no;no;no;no;no;no;no
+Benevento;BN;Campania;si;5;2021-01-25;Pdf - Immagine;si;si;si;si;no;no;no;no;no;no;no
+Campoli del Monte Taburno;BN;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Castelvenere;BN;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cautano;BN;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Dugenta;BN;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Melizzano;BN;Campania;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Solopaca;BN;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Arienzo;CE;Campania;si;4;;Pdf - Immagine;si;si;si;no;si;si;si;si;si;no;no
+Aversa;CE;Campania;si;12;;Pdf - Immagine;si;no;si;si;si;si;no;no;si;no;no
+Calvi Risorta;CE;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cancello ed Arnone;CE;Campania;si;19;2018-02-23;Xls;si;si;no;si;no;si;si;si;si;no;no
+Capodrise;CE;Campania;si;5;;Xml;si;si;si;no;no;no;no;no;no;no;no
+Carinaro;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Carinola;CE;Campania;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Casagiove;CE;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Casal di Principe;CE;Campania;si;68;2018-03-30;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;no;no
+Casaluce;CE;Campania;si;2;2020-09-03;Xls;si;si;si;si;no;si;si;si;no;no;no
+Casapesenna;CE;Campania;si;15;;Pdf - Immagine;si;no;si;no;no;si;si;si;no;no;no
+Casapulla;CE;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Caserta;CE;Campania;si;10;2020-06-29;Pdf - Ricercabile;si;si;si;no;no;no;no;si;no;no;no
+Castel Volturno;CE;Campania;si;98;2016-02-05;Xls;si;si;si;si;si;si;no;no;si;no;si
+Cellole;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cesa;CE;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Frignano;CE;Campania;si;10;;Pdf - Immagine;si;si;si;si;si;si;si;no;si;si;no
+Grazzanise;CE;Campania;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Gricignano di Aversa;CE;Campania;si;5;2015-12-23;Xls;no;no;si;si;no;si;si;si;si;no;no
+Lusciano;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Marcianise;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Mondragone;CE;Campania;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+Parete;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Piana di Monte Verna;CE;Campania;si;1;2015-11-03;Pdf - Immagine;no;si;no;si;no;no;no;no;no;no;no
+Pietramelara;CE;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Pignataro Maggiore;CE;Campania;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Portico di Caserta;CE;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Cipriano d'Aversa;CE;Campania;no;24;;;no;no;no;no;no;no;no;no;no;no;no
+San Felice a Cancello;CE;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+San Marcellino;CE;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+San Tammaro;CE;Campania;si;4;;Tabella online non scaricabile;si;si;no;no;no;no;no;no;no;no;no
+Santa Maria a Vico;CE;Campania;si;2;2020-09-01;Xls;si;si;si;no;no;no;no;si;si;no;no
+Santa Maria Capua Vetere;CE;Campania;si;72;2020-10-29;Xml;si;si;si;no;no;si;si;no;si;no;no
+Santa Maria la Fossa;CE;Campania;no;124;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Arpino;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Sessa Aurunca;CE;Campania;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Sparanise;CE;Campania;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Teano;CE;Campania;si;44;;Tabella online non scaricabile;si;si;no;no;si;si;no;si;si;no;no
+Teverola;CE;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Trentola-Ducenta;CE;Campania;si;34;2015-11-10;Pdf - Ricercabile;si;si;si;no;no;si;si;si;si;no;no
+Villa di Briano;CE;Campania;si;1;;Pdf - Immagine;si;si;si;si;si;si;si;si;si;si;si
+Villa Literno;CE;Campania;si;6;2016-05-06;Pdf - Ricercabile;si;no;no;no;no;si;no;si;si;no;si
+Acerra;NA;Campania;si;4;2019-12-31;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Afragola;NA;Campania;si;71;2020-03-03;Pdf - Ricercabile;si;si;no;si;si;si;no;no;si;no;no
+Arzano;NA;Campania;si;12;2018-03-28;Doc;si;si;si;no;no;no;no;no;no;no;no
+Bacoli;NA;Campania;si;24;2019-10-15;Pdf - Immagine;no;si;si;no;si;si;no;si;no;no;no
+Boscoreale;NA;Campania;no;33;;;no;no;no;no;no;no;no;no;no;no;no
+Boscotrecase;NA;Campania;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+Caivano;NA;Campania;no;30;;;no;no;no;no;no;no;no;no;no;no;no
+Cardito;NA;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Casalnuovo di Napoli;NA;Campania;si;41;2018-03-28;Pdf - Ricercabile;si;si;si;si;no;si;no;si;si;no;no
+Casamarciano;NA;Campania;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Casamicciola Terme;NA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Casandrino;NA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Casoria;NA;Campania;no;55;;;no;no;no;no;no;no;no;no;no;no;no
+Castellammare di Stabia;NA;Campania;si;21;;Pdf - Ricercabile;si;no;no;no;no;si;no;si;no;no;si
+Castello di Cisterna;NA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Comiziano;NA;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ercolano;NA;Campania;si;18;;Pdf - Ricercabile;si;si;si;si;no;si;si;si;si;no;no
+Frattaminore;NA;Campania;si;4;2015-12-23;Pdf - Ricercabile;si;si;si;si;si;si;si;no;no;no;no
+Giugliano in Campania;NA;Campania;si;133;2019-06-30;Pdf - Ricercabile;si;si;si;no;no;si;no;si;si;si;si
+Ischia;NA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Marano di Napoli;NA;Campania;no;144;;;no;no;no;no;no;no;no;no;no;no;no
+Melito di Napoli;NA;Campania;si;159;2019-01-17;Pdf - Ricercabile;si;no;no;si;no;no;no;no;no;no;no
+Napoli;NA;Campania;si;271;2020-06-30;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;no;si
+Nola;NA;Campania;no;19;;;no;no;no;no;no;no;no;no;no;no;no
+Ottaviano;NA;Campania;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Palma Campania;NA;Campania;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Poggiomarino;NA;Campania;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Pollena Trocchia;NA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Pomigliano d'Arco;NA;Campania;no;24;;;no;no;no;no;no;no;no;no;no;no;no
+Pompei;NA;Campania;si;24;;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;no;no
+Portici;NA;Campania;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Pozzuoli;NA;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Qualiano;NA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Quarto;NA;Campania;si;74;;Pdf - Immagine;si;si;si;si;no;si;si;no;no;no;no
+San Gennaro Vesuviano;NA;Campania;no;30;;;no;no;no;no;no;no;no;no;no;no;no
+San Giorgio a Cremano;NA;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+San Giuseppe Vesuviano;NA;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Sebastiano al Vesuvio;NA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Maria la Carità;NA;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Antimo;NA;Campania;no;123;;;no;no;no;no;no;no;no;no;no;no;no
+Saviano;NA;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Somma Vesuviana;NA;Campania;si;2;2020-09-23;Xls;si;no;si;no;no;si;si;si;si;no;si
+Striano;NA;Campania;si;1;;Xls;si;si;si;si;si;si;si;no;no;no;no
+Torre Annunziata;NA;Campania;si;53;2019-03-27;Csv;si;no;si;no;no;si;no;no;si;no;no
+Torre del Greco;NA;Campania;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Trecase;NA;Campania;si;13;;Pdf - Immagine;si;si;si;si;si;si;si;si;no;no;si
+Villaricca;NA;Campania;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Volla;NA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Agropoli;SA;Campania;si;10;;Pdf - Ricercabile;si;si;no;no;si;si;si;si;no;no;si
+Albanella;SA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Angri;SA;Campania;si;32;;Pdf - Immagine;si;no;si;si;si;si;no;si;no;no;si
+Baronissi;SA;Campania;si;7;2020-06-30;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;no;no
+Battipaglia;SA;Campania;si;45;2018-03-30;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;no;no
+Campagna;SA;Campania;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Capaccio;SA;Campania;no;19;;;no;no;no;no;no;no;no;no;no;no;no
+Castellabate;SA;Campania;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Contursi Terme;SA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Eboli;SA;Campania;si;23;2020-02-13;Xls;si;si;si;no;no;si;si;si;no;no;no
+Fisciano;SA;Campania;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Giffoni Valle Piana;SA;Campania;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Mercato San Severino;SA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Montecorvino Pugliano;SA;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Nocera Inferiore;SA;Campania;no;33;;;no;no;no;no;no;no;no;no;no;no;no
+Olevano sul Tusciano;SA;Campania;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Pagani;SA;Campania;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Pellezzano;SA;Campania;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pontecagnano Faiano;SA;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Roccapiemonte;SA;Campania;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Sala Consilina;SA;Campania;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Salerno;SA;Campania;no;11;;;no;no;no;no;no;no;no;no;no;no;no
+San Cipriano Picentino;SA;Campania;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Sarno;SA;Campania;si;84;;Pdf - Ricercabile;si;si;si;si;si;no;no;no;no;no;no
+Scafati;SA;Campania;si;17;2016-11-22;Pdf - Immagine;si;si;si;no;no;no;no;no;si;no;no
+Bologna;BO;Emilia Romagna;si;13;;Pdf - Ricercabile;si;si;si;no;no;si;si;si;no;no;no
+Borgo Tossignano;BO;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Gaggio Montano;BO;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Imola;BO;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pianoro;BO;Emilia Romagna;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Pieve di Cento;BO;Emilia Romagna;si;1;;Pdf - Ricercabile;si;si;si;no;si;si;si;no;si;no;no
+San Lazzaro di Savena;BO;Emilia Romagna;si;2;2020-02-21;Pdf - Ricercabile;no;no;no;si;si;no;no;no;no;no;si
+Cesena;FC;Emilia Romagna;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Cesenatico;FC;Emilia Romagna;si;2;2020-03-31;Doc;si;si;si;si;si;no;no;no;no;no;no
+Forlì;FC;Emilia Romagna;si;16;2019-05-21;Pdf - Ricercabile;si;si;si;si;si;si;si;no;no;no;no
+Forlimpopoli;FC;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Gatteo;FC;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Mauro Pascoli;FC;Emilia Romagna;si;2;2013-06-06;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;no;no
+Argenta;FE;Emilia Romagna;si;3;2020-04-01;Ods;si;si;si;si;no;no;no;no;no;no;no
+Comacchio;FE;Emilia Romagna;si;2;2019-03-29;Pdf - Ricercabile;si;si;si;no;si;si;no;no;no;no;no
+Ferrara;FE;Emilia Romagna;si;4;;Xml;si;si;si;si;si;si;si;si;si;si;si
+Portomaggiore;FE;Emilia Romagna;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Castelfranco Emilia;MO;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Formigine;MO;Emilia Romagna;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Maranello;MO;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Nonantola;MO;Emilia Romagna;si;2;;Pdf - Ricercabile;no;si;si;si;si;si;no;no;no;no;no
+Calendasco;PC;Emilia Romagna;si;1;;Pdf - Ricercabile;si;si;no;si;si;no;no;no;no;no;no
+Cortemaggiore;PC;Emilia Romagna;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Piacenza;PC;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Berceto;PR;Emilia Romagna;si;5;2019-04-18;Csv;no;si;si;no;si;no;no;no;no;no;no
+Langhirano;PR;Emilia Romagna;si;4;2020-03-06;Xml;si;si;si;si;si;no;no;no;no;no;no
+Medesano;PR;Emilia Romagna;si;4;2019-05-06;Pdf - Ricercabile;si;si;si;no;si;si;si;no;no;no;no
+Noceto;PR;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Parma;PR;Emilia Romagna;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Salsomaggiore Terme;PR;Emilia Romagna;si;2;;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;si
+Bagnacavallo;RA;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cervia;RA;Emilia Romagna;si;3;;Pdf - Ricercabile;no;no;no;no;si;no;no;no;no;no;si
+Faenza;RA;Emilia Romagna;si;2;;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Ravenna;RA;Emilia Romagna;si;10;2018-02-01;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;no;no
+Cattolica;RN;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Misano Adriatico;RN;Emilia Romagna;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Riccione;RN;Emilia Romagna;si;20;2017-04-05;Pdf - Ricercabile;si;si;si;no;no;si;si;no;si;no;no
+Rimini;RN;Emilia Romagna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Duino-Aurisina;TS;Friuli Venezia Giulia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Trieste;TS;Friuli Venezia Giulia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Cervignano del Friuli;UD;Friuli Venezia Giulia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Lignano Sabbiadoro;UD;Friuli Venezia Giulia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Tricesimo;UD;Friuli Venezia Giulia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Udine;UD;Friuli Venezia Giulia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Acuto;FR;Lazio;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Amaseno;FR;Lazio;si;9;2020-10-29;Pdf - Ricercabile;si;si;si;no;no;si;no;no;si;no;no
+Arce;FR;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cassino;FR;Lazio;no;46;;;no;no;no;no;no;no;no;no;no;no;no
+Castrocielo;FR;Lazio;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Cervaro;FR;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ferentino;FR;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Fiuggi;FR;Lazio;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Frosinone;FR;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Guarcino;FR;Lazio;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Pontecorvo;FR;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Elia Fiumerapido;FR;Lazio;si;14;;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Sgurgola;FR;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sora;FR;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Villa Santa Lucia;FR;Lazio;si;5;2020-10-31;Pdf - Immagine;si;si;si;no;no;si;no;no;no;no;no
+Aprilia;LT;Lazio;si;4;2019-12-31;Pdf - Immagine;no;no;si;si;si;no;si;no;no;no;no
+Cisterna di Latina;LT;Lazio;si;5;2018-12-21;Csv;no;no;no;no;no;no;no;no;no;no;no
+Fondi;LT;Lazio;si;35;2020-09-02;Xml;si;si;si;no;si;si;no;no;no;no;no
+Formia;LT;Lazio;si;12;;Pdf - Ricercabile;si;si;no;si;si;no;si;si;si;si;no
+Gaeta;LT;Lazio;si;21;2020-09-16;Pdf - Immagine;si;si;no;si;si;si;si;si;si;no;no
+Itri;LT;Lazio;si;9;2020-09-16;Pdf - Ricercabile;si;si;no;si;si;no;no;no;no;no;no
+Latina;LT;Lazio;si;25;2020-10-13;Pdf - Ricercabile;si;si;si;no;si;no;si;no;si;no;no
+Lenola;LT;Lazio;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Minturno;LT;Lazio;si;8;2020-10-13;Pdf - Immagine;no;si;no;no;si;no;no;si;si;no;no
+Norma;LT;Lazio;si;2;2020-10-13;Pdf - Immagine;si;si;si;no;si;si;si;si;no;no;no
+Pontinia;LT;Lazio;si;8;2020-10-13;Pdf - Ricercabile;si;si;no;si;no;no;si;si;no;no;si
+Priverno;LT;Lazio;si;6;2020-10-13;Pdf - Ricercabile;si;si;no;si;no;no;no;no;no;no;no
+Sabaudia;LT;Lazio;si;48;2020-10-16;Pdf - Ricercabile;si;si;si;no;si;si;si;no;si;no;no
+San Felice Circeo;LT;Lazio;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Sermoneta;LT;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Spigno Saturnia;LT;Lazio;si;2;2020-10-16;Xml;si;si;si;no;no;si;no;si;no;no;no
+Terracina;LT;Lazio;si;12;2020-10-16;Tabella online non scaricabile;si;si;si;no;si;no;si;si;no;no;no
+Antrodoco;RI;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Posta;RI;Lazio;si;5;2020-10-31;Pdf - Ricercabile;si;si;no;si;no;si;si;no;no;no;no
+Albano Laziale;RM;Lazio;si;2;;Pdf - Immagine;si;si;si;si;no;si;no;no;si;no;no
+Anzio;RM;Lazio;si;10;2020-10-29;Xls;si;si;si;no;si;si;no;si;no;no;no
+Ardea;RM;Lazio;si;10;2020-10-29;Pdf - Immagine;si;si;si;no;si;si;no;no;no;no;no
+Ariccia;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Artena;RM;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Capena;RM;Lazio;si;2;2018-07-19;Pdf - Ricercabile;si;si;si;no;si;no;no;no;si;si;no
+Castel Gandolfo;RM;Lazio;si;1;2019-12-17;Xml;no;no;no;no;no;no;no;no;no;no;no
+Cave;RM;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cerveteri;RM;Lazio;si;5;2018-01-10;;si;si;si;no;si;si;si;no;no;no;no
+Ciampino;RM;Lazio;si;7;2019-12-31;Pdf - Ricercabile;si;si;si;si;si;si;si;no;no;no;no
+Fiano Romano;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Fiumicino;RM;Lazio;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Fonte Nuova;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Formello;RM;Lazio;si;3;2018-01-15;;si;no;si;no;no;si;no;si;no;no;no
+Frascati;RM;Lazio;si;4;2018-01-24;Xls;si;si;si;si;si;si;si;si;si;si;si
+Genzano di Roma;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Grottaferrata;RM;Lazio;si;12;2020-08-18;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;no
+Guidonia Montecelio;RM;Lazio;si;3;2019-03-28;Pdf - Ricercabile;si;si;si;no;no;no;no;no;no;no;no
+Ladispoli;RM;Lazio;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Lariano;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Marino;RM;Lazio;si;14;2019-12-30;Pdf - Ricercabile;si;si;si;si;no;si;si;si;si;si;si
+Mentana;RM;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Monte Compatri;RM;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Monterotondo;RM;Lazio;si;12;2018-01-05;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Nettuno;RM;Lazio;si;4;2020-05-25;Pdf - Ricercabile;si;si;si;no;no;si;no;no;no;no;no
+Pomezia;RM;Lazio;si;29;2018-01-22;Pdf - Ricercabile;no;no;no;no;si;si;no;no;si;si;si
+Rignano Flaminio;RM;Lazio;si;3;2018-02-06;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;no
+Rocca Priora;RM;Lazio;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Roma;RM;Lazio;si;283;2020-07-23;Ods;si;si;si;si;si;si;si;si;si;no;no
+Sacrofano;RM;Lazio;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Marinella;RM;Lazio;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Oreste;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Tivoli;RM;Lazio;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Vallepietra;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Valmontone;RM;Lazio;si;5;2017-12-22;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Velletri;RM;Lazio;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Zagarolo;RM;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Fabrica di Roma;VT;Lazio;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Gallese;VT;Lazio;si;2;2020-06-01;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;no;no
+Montefiascone;VT;Lazio;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Nepi;VT;Lazio;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Tarquinia;VT;Lazio;si;12;2019-01-26;Pdf - Ricercabile;si;si;no;si;no;no;no;no;no;no;no
+Viterbo;VT;Lazio;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Bogliasco;GE;Liguria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Campomorone;GE;Liguria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Genova;GE;Liguria;si;65;2020-06-02;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;no;si
+Rapallo;GE;Liguria;si;2;;Pdf - Ricercabile;si;si;si;no;si;si;no;no;no;no;no
+Perinaldo;IM;Liguria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sanremo;IM;Liguria;si;2;2019-11-11;Pdf - Ricercabile;si;si;si;si;si;no;no;no;si;no;no
+Ameglia;SP;Liguria;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Arcola;SP;Liguria;si;1;2019-02-04;Immagine;si;no;si;si;si;si;si;no;no;no;no
+Bolano;SP;Liguria;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+La Spezia;SP;Liguria;si;4;2019-06-02;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;si;no
+Riccò del Golfo di Spezia;SP;Liguria;si;3;2020-01-14;Pdf - Immagine;si;si;si;no;si;no;no;no;no;no;si
+Sarzana;SP;Liguria;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Spotorno;SV;Liguria;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Villanova d'Albenga;SV;Liguria;si;2;2019-03-07;Pdf - Ricercabile;si;si;no;si;si;no;si;no;si;no;no
+Alzano Lombardo;BG;Lombardia;si;2;;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Berbenno;BG;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Brembate;BG;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cornalba;BG;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Dalmine;BG;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Foppolo;BG;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Gorlago;BG;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Lovere;BG;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sarnico;BG;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Seriate;BG;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Suisio;BG;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Terno d'Isola;BG;Lombardia;si;2;2017-10-01;Pdf - Immagine;no;si;si;no;si;si;si;si;no;no;si
+Torre de' Busi;BG;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bovegno;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Breno;BS;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Brescia;BS;Lombardia;si;24;2020-10-30;;si;si;si;si;si;si;si;no;no;no;no
+Caino;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Capriano del Colle;BS;Lombardia;si;2;;Pdf - Ricercabile;si;si;si;si;no;no;si;no;no;no;no
+Castel Mella;BS;Lombardia;si;4;2020-10-30;Pdf - Ricercabile;si;si;si;si;no;no;si;si;no;si;si
+Castenedolo;BS;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Cellatica;BS;Lombardia;si;1;2020-10-30;;si;si;si;no;si;si;si;si;no;no;si
+Chiari;BS;Lombardia;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Concesio;BS;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Corte Franca;BS;Lombardia;si;2;2020-10-30;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Desenzano del Garda;BS;Lombardia;si;6;2020-10-30;Pdf - Ricercabile;si;si;si;si;no;no;si;no;no;no;no
+Flero;BS;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Gianico;BS;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Iseo;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Lonato del Garda;BS;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Lumezzane;BS;Lombardia;si;3;2020-10-31;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;no
+Manerba del Garda;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Nuvolera;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ospitaletto;BS;Lombardia;si;1;2018-01-22;Pdf - Immagine;no;si;si;no;si;si;no;si;no;no;si
+Padenghe sul Garda;BS;Lombardia;si;2;2020-10-31;Pdf - Ricercabile;si;si;si;no;si;no;si;no;si;no;no
+Paspardo;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Passirano;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Pezzaze;BS;Lombardia;si;6;2020-10-31;Tabella online non scaricabile;si;si;no;no;no;no;si;no;no;no;no
+Poncarale;BS;Lombardia;si;2;2020-10-31;Pdf - Immagine;si;si;si;si;si;no;no;no;no;no;no
+Pontoglio;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Prestine;BS;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Puegnago sul Garda;BS;Lombardia;si;3;2020-10-31;Pdf - Ricercabile;no;no;no;no;no;no;no;no;no;no;no
+Rezzato;BS;Lombardia;si;1;2020-10-31;Immagine;si;si;si;si;no;no;no;no;no;no;no
+Roncadelle;BS;Lombardia;si;8;;Pdf - Immagine;si;si;si;si;si;no;si;si;si;no;si
+Sellero;BS;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Soiano del Lago;BS;Lombardia;si;3;2020-11-01;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Toscolano-Maderno;BS;Lombardia;si;2;2020-11-01;Pdf - Immagine;si;si;si;si;no;no;no;no;no;no;no
+Villa Carcina;BS;Lombardia;si;2;;Pdf - Ricercabile;si;si;si;si;no;no;si;no;no;no;no
+Cabiate;CO;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Campione d'Italia;CO;Lombardia;si;5;;Pdf - Ricercabile;si;si;si;no;no;si;si;si;si;no;no
+Cantù;CO;Lombardia;si;6;2016-10-20;Pdf - Immagine;no;no;si;si;no;si;si;si;si;si;si
+Canzo;CO;Lombardia;si;1;2019-08-27;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;si
+Carugo;CO;Lombardia;si;2;;Xml;si;si;si;no;no;si;no;no;no;no;no
+Caslino d'Erba;CO;Lombardia;si;2;2020-10-19;Pdf - Ricercabile;si;si;no;no;no;no;no;no;no;no;no
+Cermenate;CO;Lombardia;si;2;2019-07-08;Ods;si;si;si;no;no;no;si;no;no;no;no
+Como;CO;Lombardia;si;2;;Tabella online non scaricabile;si;si;si;si;si;si;si;no;no;si;no
+Erba;CO;Lombardia;si;6;2017-03-28;Doc;no;no;si;no;si;si;si;si;no;no;si
+Fino Mornasco;CO;Lombardia;si;5;2018-04-05;Pdf - Ricercabile;no;si;si;si;no;no;si;si;no;si;si
+Lipomo;CO;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Lurago d'Erba;CO;Lombardia;si;2;2019-04-17;Pdf - Immagine;no;si;si;si;no;si;si;si;si;si;si
+Mariano Comense;CO;Lombardia;si;5;2019-04-16;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Tavernerio;CO;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Dovera;CR;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Spino d'Adda;CR;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Trescore Cremasco;CR;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Airuno;LC;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Ballabio;LC;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cesana Brianza;LC;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Colico;LC;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Costa Masnaga;LC;Lombardia;si;7;;Pdf - Immagine;si;si;si;si;si;si;si;si;no;no;no
+Galbiate;LC;Lombardia;si;2;;Pdf - Ricercabile;si;si;no;si;si;si;si;si;si;si;si
+Lecco;LC;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Olginate;LC;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Valmadrera;LC;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Brembio;LO;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Casalmaiocco;LO;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Angelo Lodigiano;LO;Lombardia;si;1;2020-09-25;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;si;no
+Arcore;MB;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Brugherio;MB;Lombardia;si;3;2019-07-03;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Carate Brianza;MB;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Desio;MB;Lombardia;si;11;2020-07-27;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Lesmo;MB;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Limbiate;MB;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Monza;MB;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Muggiò;MB;Lombardia;no;37;;;no;no;no;no;no;no;no;no;no;no;no
+Nova Milanese;MB;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Seregno;MB;Lombardia;si;1;2019-12-31;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;no
+Seveso;MB;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Vedano al Lambro;MB;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Vimercate;MB;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Albairate;MI;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Assago;MI;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Bareggio;MI;Lombardia;si;5;2020-01-01;Pdf - Ricercabile;no;si;si;no;si;no;no;no;no;no;no
+Bellinzago Lombardo;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bernate Ticino;MI;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Bollate;MI;Lombardia;si;8;2016-07-25;Pdf - Immagine;si;si;si;si;si;si;no;no;si;si;si
+Buccinasco;MI;Lombardia;si;24;2019-03-26;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Calvignasco;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cambiago;MI;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Carugate;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Casarile;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cesano Boscone;MI;Lombardia;no;21;;;no;no;no;no;no;no;no;no;no;no;no
+Cinisello Balsamo;MI;Lombardia;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Cologno Monzese;MI;Lombardia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Cormano;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cornaredo;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Corsico;MI;Lombardia;si;14;2020-10-01;Pdf - Ricercabile;si;si;si;si;no;si;si;no;no;si;no
+Cuggiono;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cusago;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Dairago;MI;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Gaggiano;MI;Lombardia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Garbagnate Milanese;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Gessate;MI;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Inveruno;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Lainate;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Legnano;MI;Lombardia;si;13;2020-10-20;Pdf - Ricercabile;si;no;si;no;no;no;no;no;no;no;no
+Liscate;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Magenta;MI;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Magnago;MI;Lombardia;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Mediglia;MI;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Melegnano;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Melzo;MI;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Milano;MI;Lombardia;si;267;2020-10-21;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Motta Visconti;MI;Lombardia;si;2;;Pdf - Immagine;no;no;no;si;no;no;no;no;no;no;no
+Nerviano;MI;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Novate Milanese;MI;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Paderno Dugnano;MI;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Parabiago;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Peschiera Borromeo;MI;Lombardia;si;11;2020-10-21;Pdf - Ricercabile;no;si;si;si;si;si;no;no;no;no;no
+Pieve Emanuele;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Pioltello;MI;Lombardia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Pozzo d'Adda;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pregnana Milanese;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Rescaldina;MI;Lombardia;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Rho;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Rodano;MI;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Rozzano;MI;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+San Donato Milanese;MI;Lombardia;si;35;;Pdf - Ricercabile;si;si;si;si;si;si;si;no;no;no;no
+San Giuliano Milanese;MI;Lombardia;si;9;;Pdf - Ricercabile;no;si;si;si;si;si;si;no;si;no;si
+San Vittore Olona;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Sedriano;MI;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Segrate;MI;Lombardia;si;19;;Pdf - Ricercabile;si;si;si;no;si;no;si;no;no;no;no
+Senago;MI;Lombardia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Sesto San Giovanni;MI;Lombardia;no;17;;;no;no;no;no;no;no;no;no;no;no;no
+Settala;MI;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Settimo Milanese;MI;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Trezzano sul Naviglio;MI;Lombardia;si;15;2020-10-22;Xls;si;si;si;si;si;si;si;si;no;no;si
+Truccazzano;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Vanzaghello;MI;Lombardia;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Vignate;MI;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Zelo Surrigone;MI;Lombardia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Borgo Virgilio;MN;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bozzolo;MN;Lombardia;si;2;2016-06-06;Pdf - Immagine;si;si;no;si;si;si;si;si;si;si;si
+Serravalle a Po;MN;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Suzzara;MN;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Alagna;PV;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Broni;PV;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cilavegna;PV;Lombardia;si;2;2018-06-28;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;si
+Garlasco;PV;Lombardia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Pavia;PV;Lombardia;si;2;2018-08-14;Pdf - Ricercabile;si;si;si;no;no;no;no;no;no;no;no
+Siziano;PV;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Torrevecchia Pia;PV;Lombardia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Vigevano;PV;Lombardia;si;14;2019-10-09;Xls;no;si;si;si;si;si;si;si;no;si;si
+Zerbolò;PV;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Delebio;SO;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Madesimo;SO;Lombardia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Arcisate;VA;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Azzate;VA;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Busto Arsizio;VA;Lombardia;si;5;2020-04-14;Pdf - Ricercabile;no;no;si;no;no;si;no;no;no;no;no
+Caronno Pertusella;VA;Lombardia;si;2;2020-07-29;Pdf - Ricercabile;si;no;si;no;si;si;si;si;no;si;si
+Cassano Magnago;VA;Lombardia;si;2;;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;no
+Castellanza;VA;Lombardia;no;2;;;si;si;si;no;no;si;no;si;no;no;no
+Castiglione Olona;VA;Lombardia;si;6;2017-02-08;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;no;no
+Cittiglio;VA;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Induno Olona;VA;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Leggiuno;VA;Lombardia;si;1;2016-11-30;Pdf - Immagine;no;si;si;no;no;si;no;no;no;no;no
+Lonate Ceppino;VA;Lombardia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Luino;VA;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Marchirolo;VA;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Saronno;VA;Lombardia;si;2;2015-10-29;Pdf - Ricercabile;si;si;si;no;si;si;no;no;no;no;no
+Somma Lombardo;VA;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Sumirago;VA;Lombardia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Uboldo;VA;Lombardia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Varese;VA;Lombardia;no;62;;;no;no;no;no;no;no;no;no;no;no;no
+Venegono Superiore;VA;Lombardia;si;1;2020-10-25;Pdf - Ricercabile;si;si;si;no;no;si;no;si;no;si;no
+Cupramontana;AN;Marche;si;1;2013-08-01;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Grottammare;AP;Marche;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+San Benedetto del Tronto;AP;Marche;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Fano;PU;Marche;si;7;2015-11-10;Pdf - Ricercabile;si;no;si;no;no;no;no;no;no;no;no
+Isola del Piano;PU;Marche;si;4;2017-02-24;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;si;no
+Campobasso;CB;Molise;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Venafro;IS;Molise;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bosco Marengo;AL;Piemonte;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Dusino San Michele;AT;Piemonte;si;2;2019-10-21;Xls;si;si;no;no;no;si;no;no;si;no;no
+Grazzano Badoglio;AT;Piemonte;si;1;2012-01-01;Pdf - Ricercabile;si;si;no;si;si;si;si;si;si;si;no
+Moncalvo;AT;Piemonte;si;5;;;si;si;no;no;si;si;si;si;si;si;si
+Penango;AT;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Valle San Nicolao;BI;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Alba;CN;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cuneo;CN;Piemonte;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Mondovì;CN;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Revello;CN;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Savigliano;CN;Piemonte;si;1;;Pdf - Ricercabile;si;si;si;no;si;si;no;si;si;si;si
+Ameno;NO;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Borgomanero;NO;Piemonte;si;1;2020-06-30;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Miasino;NO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Novara;NO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Banchette;TO;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bardonecchia;TO;Piemonte;si;6;2019-10-18;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;si;si
+Beinasco;TO;Piemonte;si;2;2018-12-30;Pdf - Ricercabile;si;si;si;no;si;si;si;no;no;no;no
+Borgaro Torinese;TO;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Carmagnola;TO;Piemonte;si;4;2019-03-12;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;no
+Castiglione Torinese;TO;Piemonte;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Cesana Torinese;TO;Piemonte;si;5;2019-10-14;Xls;si;si;no;no;si;si;no;si;si;si;si
+Chivasso;TO;Piemonte;si;5;2020-02-18;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Coazze;TO;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cuorgnè;TO;Piemonte;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Leini;TO;Piemonte;si;5;2019-10-21;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;si;si
+Nichelino;TO;Piemonte;si;1;2019-01-15;Pdf - Ricercabile;si;si;si;si;si;si;si;no;no;no;no
+Orbassano;TO;Piemonte;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Piossasco;TO;Piemonte;si;2;2019-11-07;Xml;si;si;no;no;no;no;no;no;no;no;no
+San Carlo Canavese;TO;Piemonte;si;4;2019-10-15;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+San Maurizio Canavese;TO;Piemonte;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+San Sebastiano da Po;TO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Settimo Torinese;TO;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Torino;TO;Piemonte;si;33;2019-03-01;Pdf - Ricercabile;si;si;si;no;si;si;si;no;si;no;no
+Torrazza Piemonte;TO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Val della Torre;TO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Venaria Reale;TO;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Verolengo;TO;Piemonte;si;1;2015-10-12;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Villareggia;TO;Piemonte;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Villastellone;TO;Piemonte;si;1;2019-02-21;Pdf - Ricercabile;no;si;no;no;si;si;no;no;no;no;no
+Volpiano;TO;Piemonte;si;7;2019-04-29;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Volvera;TO;Piemonte;si;7;2015-10-14;Xml;si;si;si;no;si;si;si;si;si;si;si
+Baveno;VB;Piemonte;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Omegna;VB;Piemonte;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Verbania;VB;Piemonte;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Cigliano;VC;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Crescentino;VC;Piemonte;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Gattinara;VC;Piemonte;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Vercelli;VC;Piemonte;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Acquaviva delle Fonti;BA;Puglia;si;18;2018-02-01;Pdf - Ricercabile;si;si;si;si;si;si;si;si;no;no;no
+Adelfia;BA;Puglia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Alberobello;BA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Altamura;BA;Puglia;si;12;2019-01-01;Xls;si;no;si;no;si;no;si;no;si;si;si
+Bari;BA;Puglia;si;189;2020-07-01;Xls;si;si;si;si;si;si;si;si;si;no;si
+Bitetto;BA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Bitonto;BA;Puglia;no;26;;;si;si;si;no;no;no;no;no;no;no;no
+Bitritto;BA;Puglia;si;12;2017-01-24;Xls;si;si;si;no;si;no;no;no;si;si;no
+Capurso;BA;Puglia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Casamassima;BA;Puglia;no;12;;;si;no;si;si;no;no;no;no;no;no;no
+Cassano delle Murge;BA;Puglia;no;12;;;si;si;si;no;no;no;no;no;no;no;no
+Castellana Grotte;BA;Puglia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Cellamare;BA;Puglia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Conversano;BA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Corato;BA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Giovinazzo;BA;Puglia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Gravina in Puglia;BA;Puglia;no;6;;;si;si;si;si;no;no;no;no;no;no;no
+Grumo Appula;BA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Modugno;BA;Puglia;si;8;;Immagine;si;si;no;si;si;no;no;no;no;no;no
+Molfetta;BA;Puglia;si;5;2019-06-07;Pdf - Immagine;no;si;si;no;no;no;no;no;no;no;no
+Monopoli;BA;Puglia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Noicattaro;BA;Puglia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Palo del Colle;BA;Puglia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Polignano a Mare;BA;Puglia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Putignano;BA;Puglia;si;6;2020-08-25;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;si
+Sannicandro di Bari;BA;Puglia;si;5;2020-08-26;Pdf - Ricercabile;si;si;si;no;no;si;si;si;si;no;no
+Santeramo in Colle;BA;Puglia;no;18;;;no;no;no;no;no;no;no;no;no;no;no
+Triggiano;BA;Puglia;si;26;2010-04-15;Pdf - Ricercabile;si;si;no;no;no;no;si;no;si;si;no
+Valenzano;BA;Puglia;si;84;;Pdf - Ricercabile;si;si;si;no;no;si;no;no;si;si;no
+Brindisi;BR;Puglia;si;145;2018-03-29;Pdf - Ricercabile;si;si;si;no;si;no;no;no;si;no;no
+Carovigno;BR;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ceglie Messapica;BR;Puglia;si;17;2017-01-27;Pdf - Ricercabile;si;si;si;si;no;si;si;no;si;si;no
+Cellino San Marco;BR;Puglia;si;3;2018-05-17;Pdf - Ricercabile;si;si;si;si;no;si;no;no;no;no;no
+Fasano;BR;Puglia;si;45;2019-10-16;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Latiano;BR;Puglia;si;1;2018-04-04;Csv;si;si;si;no;si;no;no;no;si;no;no
+Mesagne;BR;Puglia;si;12;2018-12-29;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;si;no
+Oria;BR;Puglia;si;37;2018-03-26;Doc;si;si;si;si;si;si;si;si;si;si;si
+Ostuni;BR;Puglia;si;33;2019-01-01;Immagine;si;no;si;si;si;no;no;si;si;si;no
+San Donaci;BR;Puglia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+San Michele Salentino;BR;Puglia;si;20;2020-08-25;Pdf - Ricercabile;no;si;si;si;si;no;si;no;no;no;si
+San Pancrazio Salentino;BR;Puglia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+San Pietro Vernotico;BR;Puglia;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+San Vito dei Normanni;BR;Puglia;no;27;;;no;no;no;no;no;no;no;no;no;no;no
+Torchiarolo;BR;Puglia;si;51;;Xls;si;si;si;si;no;no;no;no;si;no;no
+Torre Santa Susanna;BR;Puglia;si;27;2019-12-04;Pdf - Ricercabile;si;si;si;si;no;si;no;no;no;no;no
+Villa Castelli;BR;Puglia;si;8;;Pdf - Ricercabile;no;si;si;no;si;no;no;no;si;no;no
+Andria;BT;Puglia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Barletta;BT;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Canosa di Puglia;BT;Puglia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Cerignola;FG;Puglia;si;20;2020-09-11;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Foggia;FG;Puglia;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Lesina;FG;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Lucera;FG;Puglia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Manfredonia;FG;Puglia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Orta Nova;FG;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Peschici;FG;Puglia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+San Severo;FG;Puglia;si;5;;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Alliste;LE;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Campi Salentina;LE;Puglia;si;4;2020-07-14;Pdf - Ricercabile;si;si;si;no;no;no;no;no;no;no;no
+Carmiano;LE;Puglia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Casarano;LE;Puglia;si;32;2020-08-26;Pdf - Immagine;si;si;si;no;no;no;no;no;no;no;no
+Castrignano del Capo;LE;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cavallino;LE;Puglia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Copertino;LE;Puglia;si;40;2020-09-12;Pdf - Ricercabile;si;si;si;no;si;no;no;si;no;no;no
+Galatina;LE;Puglia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Lecce;LE;Puglia;si;46;2020-09-20;Pdf - Ricercabile;no;si;si;no;si;si;si;si;si;no;no
+Lequile;LE;Puglia;no;33;;;no;no;no;no;no;no;no;no;no;no;no
+Lizzanello;LE;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Matino;LE;Puglia;si;5;2020-09-28;Pdf - Ricercabile;si;si;si;no;no;si;si;no;si;no;no
+Melendugno;LE;Puglia;si;1;2020-09-28;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Monteroni di Lecce;LE;Puglia;si;10;2020-10-09;Pdf - Ricercabile;si;si;si;no;si;si;no;no;no;no;no
+Nardò;LE;Puglia;si;1;2020-10-09;Pdf - Immagine;si;si;si;si;no;no;no;si;no;no;no
+Parabita;LE;Puglia;si;5;2020-10-09;Pdf - Ricercabile;si;si;si;si;si;no;no;no;no;no;no
+Porto Cesareo;LE;Puglia;si;3;2020-10-12;Pdf - Ricercabile;si;si;si;si;no;si;si;no;si;no;no
+Salve;LE;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+San Donato di Lecce;LE;Puglia;no;17;;;no;no;no;no;no;no;no;no;no;no;no
+Squinzano;LE;Puglia;si;14;2020-10-14;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Surbo;LE;Puglia;si;3;2020-10-14;Pdf - Ricercabile;si;si;si;no;si;si;si;no;si;no;no
+Taurisano;LE;Puglia;si;6;2020-10-14;Pdf - Ricercabile;si;si;si;no;si;si;si;no;si;no;no
+Trepuzzi;LE;Puglia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Ugento;LE;Puglia;si;11;2020-10-15;Xls;si;si;si;si;si;si;si;si;si;si;si
+Vernole;LE;Puglia;si;2;2020-10-15;Pdf - Immagine;si;si;si;no;si;no;no;no;no;no;no
+Castellaneta;TA;Puglia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Fragagnano;TA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ginosa;TA;Puglia;si;52;2020-11-05;Xls;no;no;no;no;si;no;no;no;no;no;no
+Laterza;TA;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Leporano;TA;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Lizzano;TA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Manduria;TA;Puglia;si;30;;Pdf - Ricercabile;si;si;si;no;no;si;si;no;no;no;no
+Martina Franca;TA;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Massafra;TA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Palagiano;TA;Puglia;si;2;2020-10-09;Pdf - Immagine;si;si;no;si;no;no;no;no;no;no;no
+Pulsano;TA;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+San Giorgio Ionico;TA;Puglia;no;17;;;no;no;no;no;no;no;no;no;no;no;no
+San Marzano di San Giuseppe;TA;Puglia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sava;TA;Puglia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Statte;TA;Puglia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Taranto;TA;Puglia;no;82;;;no;no;no;no;no;no;no;no;no;no;no
+Assemini;CA;Sardegna;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Cagliari;CA;Sardegna;si;16;2020-05-18;Ods;si;no;si;si;si;si;no;no;no;no;no
+Dolianova;CA;Sardegna;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Gergei;CA;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Muravera;CA;Sardegna;si;2;2016-10-25;Pdf - Ricercabile;si;no;si;si;si;no;no;no;no;no;no
+Quartu Sant'Elena;CA;Sardegna;no;18;;;no;no;no;no;no;no;no;no;no;no;no
+Quartucciu;CA;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sestu;CA;Sardegna;no;11;;;no;no;no;no;no;no;no;no;no;no;no
+Sinnai;CA;Sardegna;si;1;2018-01-01;Pdf - Ricercabile;no;si;no;no;si;no;si;no;si;no;no
+Uta;CA;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Villasimius;CA;Sardegna;si;20;2017-12-04;Pdf - Ricercabile;si;si;si;si;no;si;no;no;no;no;no
+Iglesias;CI;Sardegna;si;1;2019-04-08;Pdf - Ricercabile;si;si;no;si;si;no;no;no;no;no;no
+Dorgali;NU;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Lula;NU;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Oristano;OR;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Arzachena;OT;Sardegna;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Golfo Aranci;OT;Sardegna;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Loiri Porto San Paolo;OT;Sardegna;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Olbia;OT;Sardegna;no;26;;;no;no;no;no;no;no;no;no;no;no;no
+Alghero;SS;Sardegna;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Sassari;SS;Sardegna;si;5;2020-10-05;Ods;si;si;si;no;si;si;si;no;si;si;si
+Sorso;SS;Sardegna;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Agrigento;AG;Sicilia;si;28;2019-05-30;Pdf - Immagine;si;si;si;no;si;no;no;si;no;no;no
+Aragona;AG;Sicilia;si;5;2016-03-31;Pdf - Ricercabile;si;si;no;no;si;si;si;no;no;no;no
+Bivona;AG;Sicilia;si;3;2016-09-14;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Camastra;AG;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Campobello di Licata;AG;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Canicattì;AG;Sicilia;si;59;;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;no
+Casteltermini;AG;Sicilia;si;2;2016-04-28;Immagine;si;si;si;si;si;no;si;si;si;si;si
+Cattolica Eraclea;AG;Sicilia;si;15;2016-04-26;Immagine;si;si;no;no;si;si;si;si;no;no;no
+Cianciana;AG;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Favara;AG;Sicilia;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Grotte;AG;Sicilia;si;6;2016-05-05;Pdf - Ricercabile;si;si;no;si;si;no;no;no;si;no;no
+Joppolo Giancaxio;AG;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Licata;AG;Sicilia;si;109;2019-01-21;Immagine;si;si;si;no;si;si;no;no;no;no;no
+Menfi;AG;Sicilia;si;9;2017-10-31;Doc;si;si;si;no;no;no;si;no;si;no;no
+Montevago;AG;Sicilia;si;12;2019-05-27;Pdf - Ricercabile;si;no;si;no;no;no;no;no;no;no;no
+Naro;AG;Sicilia;si;59;2019-05-13;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Palma di Montechiaro;AG;Sicilia;si;7;2016-03-01;Immagine;si;si;si;no;no;no;no;no;si;no;no
+Porto Empedocle;AG;Sicilia;si;1;;Immagine;no;si;si;si;si;no;si;no;si;si;no
+Racalmuto;AG;Sicilia;si;8;2018-09-02;Immagine;si;si;si;si;si;si;si;si;si;si;si
+Ribera;AG;Sicilia;si;15;;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;si;si
+Sambuca di Sicilia;AG;Sicilia;si;3;2019-12-23;Pdf - Ricercabile;si;no;si;si;no;si;no;no;si;si;no
+Santa Elisabetta;AG;Sicilia;si;2;2016-07-26;Pdf - Ricercabile;si;si;si;si;no;no;si;no;si;si;no
+Santa Margherita di Belice;AG;Sicilia;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Angelo Muxaro;AG;Sicilia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Santo Stefano Quisquina;AG;Sicilia;si;4;2019-03-18;Pdf - Ricercabile;si;si;si;si;si;no;si;si;si;si;si
+Sciacca;AG;Sicilia;si;7;2016-08-30;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;si
+Siculiana;AG;Sicilia;si;3;2015-12-31;Immagine;no;si;si;no;si;si;no;no;no;no;no
+Butera;CL;Sicilia;si;9;2019-05-08;Immagine;si;si;no;no;no;no;no;no;no;no;no
+Caltanissetta;CL;Sicilia;si;270;2020-05-12;Pdf - Ricercabile;si;si;si;no;si;si;si;si;no;no;no
+Gela;CL;Sicilia;si;52;;Pdf - Ricercabile;si;no;no;si;si;si;no;no;no;no;no
+Mussomeli;CL;Sicilia;si;23;;Pdf - Ricercabile;si;si;si;si;si;no;no;no;si;si;no
+Niscemi;CL;Sicilia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Riesi;CL;Sicilia;si;10;2019-05-15;Pdf - Immagine;si;si;si;no;si;si;si;no;si;si;no
+San Cataldo;CL;Sicilia;no;35;;;no;no;no;no;no;no;no;no;no;no;no
+Serradifalco;CL;Sicilia;si;6;2018-07-01;Pdf - Ricercabile;si;si;si;no;no;si;si;si;si;si;no
+Vallelunga Pratameno;CL;Sicilia;si;56;2014-06-24;Tabella online non scaricabile;si;si;si;no;si;no;no;no;no;no;no
+Aci Bonaccorsi;CT;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Aci Castello;CT;Sicilia;si;5;2017-12-31;Pdf - Immagine;si;si;si;si;si;si;si;si;si;si;si
+Aci Catena;CT;Sicilia;si;17;2012-04-24;Tabella online non scaricabile;si;si;si;no;si;no;si;si;si;si;no
+Aci Sant'Antonio;CT;Sicilia;no;38;;;no;no;no;no;no;no;no;no;no;no;no
+Acireale;CT;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Adrano;CT;Sicilia;si;13;;Pdf - Ricercabile;si;no;si;no;no;no;no;no;no;no;no
+Belpasso;CT;Sicilia;si;37;2018-12-31;Pdf - Ricercabile;si;si;si;no;si;no;no;si;si;no;no
+Calatabiano;CT;Sicilia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Caltagirone;CT;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Camporotondo Etneo;CT;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Castel di Iudica;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Catania;CT;Sicilia;si;154;2020-03-24;Pdf - Ricercabile;si;si;si;no;si;si;no;si;no;no;no
+Fiumefreddo di Sicilia;CT;Sicilia;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Giarre;CT;Sicilia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Gravina di Catania;CT;Sicilia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Licodia Eubea;CT;Sicilia;no;20;;;no;no;no;no;no;no;no;no;no;no;no
+Linguaglossa;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Mascali;CT;Sicilia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Mascalucia;CT;Sicilia;si;11;2017-03-27;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;no;no
+Militello in Val di Catania;CT;Sicilia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Misterbianco;CT;Sicilia;si;30;2020-07-15;Pdf - Ricercabile;si;si;si;si;si;si;no;no;si;si;si
+Motta Sant'Anastasia;CT;Sicilia;no;230;;;no;no;no;no;no;no;no;no;no;no;no
+Nicolosi;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Palagonia;CT;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Paternò;CT;Sicilia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Pedara;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Piedimonte Etneo;CT;Sicilia;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Ragalna;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ramacca;CT;Sicilia;no;25;;;no;no;no;no;no;no;no;no;no;no;no
+San Giovanni la Punta;CT;Sicilia;si;5;;Pdf - Immagine;si;si;si;no;si;si;no;si;si;si;no
+San Gregorio di Catania;CT;Sicilia;si;11;2020-07-07;Doc;si;si;si;no;no;si;no;no;si;si;no
+San Pietro Clarenza;CT;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Maria di Licodia;CT;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Venerina;CT;Sicilia;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Sant'Agata li Battiati;CT;Sicilia;si;3;2018-04-24;Tabella online non scaricabile;si;si;si;si;si;no;si;si;si;si;no
+Trecastagni;CT;Sicilia;no;60;;;no;no;no;no;no;no;no;no;no;no;no
+Tremestieri Etneo;CT;Sicilia;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Viagrande;CT;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Zafferana Etnea;CT;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Aidone;EN;Sicilia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Assoro;EN;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Barrafranca;EN;Sicilia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Calascibetta;EN;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Enna;EN;Sicilia;no;10;;;si;si;si;no;no;no;no;no;no;no;no
+Piazza Armerina;EN;Sicilia;si;10;2020-02-20;Immagine;si;si;si;no;no;no;si;no;no;no;no
+Pietraperzia;EN;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Valguarnera Caropepe;EN;Sicilia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Villarosa;EN;Sicilia;no;11;;;no;no;no;no;no;no;no;no;no;no;no
+Alì Terme;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Antillo;ME;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Barcellona Pozzo di Gotto;ME;Sicilia;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Basicò;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Capo d'Orlando;ME;Sicilia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Caronia;ME;Sicilia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Floresta;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Furnari;ME;Sicilia;si;96;2017-03-26;Pdf - Ricercabile;si;si;no;no;no;no;no;no;si;no;no
+Gaggi;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Giardini-Naxos;ME;Sicilia;si;10;2017-03-28;Pdf - Ricercabile;no;si;si;si;si;si;si;si;no;no;no
+Gioiosa Marea;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Letojanni;ME;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Lipari;ME;Sicilia;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+Merì;ME;Sicilia;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Messina;ME;Sicilia;si;83;2020-05-26;Xls;no;no;no;no;no;no;no;no;no;no;no
+Milazzo;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Montalbano Elicona;ME;Sicilia;si;1;2019-04-29;Pdf - Ricercabile;si;si;si;si;si;no;no;no;si;no;no
+Naso;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Reitano;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Roccalumera;ME;Sicilia;si;3;;Pdf - Immagine;si;no;no;no;no;si;no;no;si;si;no
+Rometta;ME;Sicilia;no;42;;;si;si;no;si;no;no;no;no;no;no;no
+Santa Teresa di Riva;ME;Sicilia;si;1;2019-11-25;Pdf - Ricercabile;si;no;si;si;no;no;si;no;si;si;no
+Sant'Alessio Siculo;ME;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Saponara;ME;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Scaletta Zanclea;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Sinagra;ME;Sicilia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Spadafora;ME;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Taormina;ME;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Terme Vigliatore;ME;Sicilia;si;4;2020-07-07;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Torregrotta;ME;Sicilia;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Torrenova;ME;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Villafranca Tirrena;ME;Sicilia;no;19;;;no;no;no;no;no;no;no;no;no;no;no
+Altavilla Milicia;PA;Sicilia;no;23;;;si;si;si;si;no;no;no;no;no;no;no
+Altofonte;PA;Sicilia;si;13;2015-10-25;Pdf - Ricercabile;si;no;si;no;no;no;no;no;no;no;no
+Bagheria;PA;Sicilia;si;172;2018-02-06;Pdf - Ricercabile;si;si;si;no;si;si;no;si;si;si;no
+Balestrate;PA;Sicilia;si;6;2018-05-16;Immagine;si;si;si;no;si;si;no;si;si;no;no
+Baucina;PA;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Belmonte Mezzagno;PA;Sicilia;si;53;2020-06-30;Pdf - Ricercabile;no;si;si;no;no;no;no;no;no;no;no
+Bolognetta;PA;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Borgetto;PA;Sicilia;si;61;2020-06-05;Pdf - Ricercabile;no;si;si;no;si;si;si;no;no;si;no
+Caccamo;PA;Sicilia;no;46;;;no;no;no;no;no;no;no;no;no;no;no
+Campofelice di Roccella;PA;Sicilia;no;12;;;si;si;si;no;no;no;no;no;no;no;no
+Camporeale;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Capaci;PA;Sicilia;si;34;;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;si;no
+Carini;PA;Sicilia;si;94;;Pdf - Ricercabile;si;si;no;no;si;si;no;no;si;no;no
+Casteldaccia;PA;Sicilia;si;8;2020-07-31;Pdf - Ricercabile;si;si;si;si;si;no;si;si;no;no;si
+Castronovo di Sicilia;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Cefalà Diana;PA;Sicilia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Cerda;PA;Sicilia;no;10;;;no;no;no;no;no;no;no;no;no;no;no
+Ciminna;PA;Sicilia;si;26;2015-08-04;Pdf - Ricercabile;si;no;si;si;si;no;no;no;no;no;no
+Cinisi;PA;Sicilia;si;43;2020-07-03;Immagine;si;si;no;si;si;no;si;no;si;no;no
+Collesano;PA;Sicilia;si;13;2018-07-25;Immagine;si;si;si;no;si;no;no;no;si;no;no
+Corleone;PA;Sicilia;si;37;;Pdf - Ricercabile;si;si;si;no;si;no;no;no;si;no;no
+Ficarazzi;PA;Sicilia;si;11;2017-12-31;Xls;si;si;si;si;no;no;no;no;no;no;no
+Giardinello;PA;Sicilia;si;4;2017-05-11;Immagine;si;si;si;no;no;no;no;no;no;no;no
+Isola delle Femmine;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Lascari;PA;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Marineo;PA;Sicilia;si;3;2014-01-01;Pdf - Ricercabile;si;si;no;no;si;no;no;si;si;no;no
+Mezzojuso;PA;Sicilia;si;3;;Pdf - Ricercabile;si;si;si;si;no;si;no;no;si;no;no
+Misilmeri;PA;Sicilia;no;63;;;si;si;si;si;si;no;si;no;no;no;no
+Monreale;PA;Sicilia;no;130;;;si;no;no;no;no;no;no;no;no;no;no
+Montelepre;PA;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Palermo;PA;Sicilia;si;1991;2020-01-31;Pdf - Ricercabile;no;si;no;si;si;si;no;si;si;no;si
+Partinico;PA;Sicilia;no;129;;;si;si;si;no;no;no;no;no;no;no;no
+Petralia Soprana;PA;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Piana degli Albanesi;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Polizzi Generosa;PA;Sicilia;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Pollina;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Prizzi;PA;Sicilia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Roccamena;PA;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+San Cipirello;PA;Sicilia;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+San Giuseppe Jato;PA;Sicilia;si;34;;Xml;si;si;si;si;si;no;si;no;si;no;no
+Santa Cristina Gela;PA;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Santa Flavia;PA;Sicilia;no;23;;;no;no;no;no;no;no;no;no;no;no;no
+Termini Imerese;PA;Sicilia;si;80;2020-02-20;Immagine;si;si;si;no;si;si;no;no;si;no;no
+Terrasini;PA;Sicilia;si;83;2017-02-24;Immagine;si;si;si;no;no;no;no;no;no;no;no
+Torretta;PA;Sicilia;no;16;;;no;no;no;no;no;no;no;no;no;no;no
+Trabia;PA;Sicilia;si;101;;Xls;si;si;si;si;si;si;si;si;si;si;si
+Trappeto;PA;Sicilia;si;6;2018-05-16;Immagine;si;si;si;no;si;no;no;si;si;no;no
+Ventimiglia di Sicilia;PA;Sicilia;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Vicari;PA;Sicilia;no;7;;;si;si;si;no;no;no;no;no;no;no;no
+Villabate;PA;Sicilia;si;50;;Xml;si;si;si;si;no;no;no;no;no;no;no
+Villafrati;PA;Sicilia;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Acate;RG;Sicilia;no;14;;;no;no;no;no;no;no;no;no;no;no;no
+Chiaramonte Gulfi;RG;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Comiso;RG;Sicilia;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Modica;RG;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pozzallo;RG;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Ragusa;RG;Sicilia;si;19;2018-09-02;Pdf - Ricercabile;si;no;si;no;no;no;no;no;si;si;no
+Santa Croce Camerina;RG;Sicilia;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Scicli;RG;Sicilia;no;11;;;si;si;si;no;no;no;no;no;no;no;no
+Vittoria;RG;Sicilia;si;43;2011-11-29;Pdf - Ricercabile;si;si;si;si;si;si;no;si;si;no;si
+Augusta;SR;Sicilia;si;3;2017-01-01;Pdf - Ricercabile;si;si;si;si;no;no;no;no;no;no;no
+Avola;SR;Sicilia;no;26;;;no;no;no;no;no;no;no;no;no;no;no
+Carlentini;SR;Sicilia;si;4;;Pdf - Ricercabile;si;si;si;no;no;no;no;si;si;si;no
+Floridia;SR;Sicilia;si;3;2019-03-21;Pdf - Ricercabile;si;si;si;no;no;no;si;si;si;no;no
+Francofonte;SR;Sicilia;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Lentini;SR;Sicilia;no;22;;;si;si;no;si;no;si;no;no;no;no;no
+Melilli;SR;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Noto;SR;Sicilia;si;48;2020-08-26;Pdf - Ricercabile;si;si;si;no;no;si;si;no;si;si;no
+Pachino;SR;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Priolo Gargallo;SR;Sicilia;no;4;;;no;si;no;no;si;no;no;no;no;no;no
+Rosolini;SR;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Siracusa;SR;Sicilia;si;24;2015-10-29;Pdf - Ricercabile;no;si;si;no;si;no;si;no;si;no;no
+Alcamo;TP;Sicilia;si;68;2020-08-10;Pdf - Ricercabile;si;si;si;no;si;si;no;no;si;si;no
+Buseto Palizzolo;TP;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Calatafimi-Segesta;TP;Sicilia;si;15;2020-03-10;Immagine;no;si;no;si;si;si;si;si;si;si;si
+Campobello di Mazara;TP;Sicilia;si;30;;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;no
+Castellammare del Golfo;TP;Sicilia;si;40;2019-03-11;Immagine;si;si;si;no;si;si;no;no;no;no;no
+Castelvetrano;TP;Sicilia;si;130;2018-11-01;Pdf - Ricercabile;si;si;no;si;si;si;no;si;si;si;no
+Custonaci;TP;Sicilia;no;29;;;no;no;no;no;no;no;no;no;no;no;no
+Erice;TP;Sicilia;si;27;2013-11-19;Pdf - Ricercabile;si;si;si;si;no;no;si;si;si;si;no
+Favignana;TP;Sicilia;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Marsala;TP;Sicilia;si;35;2020-07-10;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;no
+Mazara del Vallo;TP;Sicilia;si;68;2017-05-13;Pdf - Ricercabile;si;si;si;si;si;si;si;si;si;si;no
+Paceco;TP;Sicilia;no;15;;;no;no;no;no;no;no;no;no;no;no;no
+Pantelleria;TP;Sicilia;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Partanna;TP;Sicilia;si;44;2015-06-19;Doc;si;si;si;si;no;no;si;no;no;no;no
+Salemi;TP;Sicilia;si;7;2016-12-31;Pdf - Immagine;si;si;si;si;no;si;si;si;si;si;no
+San Vito Lo Capo;TP;Sicilia;si;21;2019-02-19;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;si;no
+Trapani;TP;Sicilia;si;25;2020-02-20;Pdf - Ricercabile;si;si;si;si;si;no;si;no;si;no;no
+Valderice;TP;Sicilia;no;27;;;no;no;no;no;no;no;no;no;no;no;no
+Vita;TP;Sicilia;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Marciano della Chiana;AR;Toscana;no;39;;;no;no;no;no;no;no;no;no;no;no;no
+Terranuova Bracciolini;AR;Toscana;si;4;2020-07-14;Pdf - Ricercabile;si;si;si;si;no;si;no;no;no;no;no
+Campi Bisenzio;FI;Toscana;si;2;;;si;si;no;si;si;si;si;si;no;no;no
+Firenze;FI;Toscana;si;6;;Pdf - Ricercabile;si;no;si;si;si;si;si;no;no;no;no
+Tavarnelle Val di Pesa;FI;Toscana;no;8;;;no;no;no;no;no;no;no;no;no;no;no
+Monte Argentario;GR;Toscana;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Rosignano Marittimo;LI;Toscana;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Altopascio;LU;Toscana;si;5;;Ods;si;si;si;no;no;no;no;no;no;no;no
+Forte dei Marmi;LU;Toscana;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Lucca;LU;Toscana;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Viareggio;LU;Toscana;si;3;2020-10-22;Pdf - Ricercabile;si;si;si;si;si;si;no;no;si;no;no
+Licciana Nardi;MS;Toscana;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Massa;MS;Toscana;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Montignoso;MS;Toscana;no;6;;;no;no;no;no;no;no;no;no;no;no;no
+Cascina;PI;Toscana;si;1;;Tabella online non scaricabile;si;si;si;si;si;si;si;si;si;si;si
+Montopoli in Val d'Arno;PI;Toscana;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Montemurlo;PO;Toscana;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Vaiano;PO;Toscana;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Buggiano;PT;Toscana;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Larciano;PT;Toscana;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+Massa e Cozzile;PT;Toscana;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Montale;PT;Toscana;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Montecatini-Terme;PT;Toscana;si;13;2020-10-22;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;no
+Chianciano Terme;SI;Toscana;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Radda in Chianti;SI;Toscana;si;1;2020-10-22;Pdf - Immagine;si;no;si;no;si;no;no;no;no;no;no
+Radicofani;SI;Toscana;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Mezzana;TN;Trentino Alto Adige;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Riva del Garda;TN;Trentino Alto Adige;si;1;;Pdf - Immagine;si;no;si;si;si;si;si;no;si;no;si
+Strembo;TN;Trentino Alto Adige;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Trento;TN;Trentino Alto Adige;no;13;;;no;no;no;no;no;no;no;no;no;no;no
+Bastia Umbra;PG;Umbria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Massa Martana;PG;Umbria;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Perugia;PG;Umbria;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Pietralunga;PG;Umbria;no;28;;;no;no;no;no;no;no;no;no;no;no;no
+Spoleto;PG;Umbria;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Acquasparta;TR;Umbria;no;1;;;no;si;no;no;no;no;no;no;no;no;no
+Terni;TR;Umbria;si;1;2017-12-14;Pdf - Ricercabile;si;si;si;si;si;si;no;no;no;no;no
+Challand-Saint-Victor;AO;Valle D'Aosta;no;7;;;no;no;no;no;no;no;no;no;no;no;no
+Belluno;BL;Veneto;si;6;2020-09-02;Ods;si;si;no;no;si;si;si;si;no;no;no
+Padova;PD;Veneto;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Saccolongo;PD;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Badia Polesine;RO;Veneto;si;3;2020-10-16;Pdf - Immagine;si;no;no;no;si;si;no;si;no;no;si
+Paese;TV;Veneto;si;3;2019-10-25;Pdf - Immagine;si;si;no;no;no;no;si;no;no;no;no
+Susegana;TV;Veneto;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Trevignano;TV;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Campagna Lupia;VE;Veneto;si;3;2017-02-08;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Campolongo Maggiore;VE;Veneto;no;12;;;no;no;no;no;no;no;no;no;no;no;no
+Camponogara;VE;Veneto;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Caorle;VE;Veneto;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Jesolo;VE;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Salzano;VE;Veneto;no;9;;;no;no;no;no;no;no;no;no;no;no;no
+San Michele al Tagliamento;VE;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Stra;VE;Veneto;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Venezia;VE;Veneto;si;3;;Pdf - Ricercabile;no;si;no;no;si;si;si;no;no;no;no
+Bassano del Grappa;VI;Veneto;si;2;2019-05-01;Pdf - Ricercabile;no;si;si;si;si;si;si;no;no;no;no
+Cassola;VI;Veneto;si;1;2020-01-01;Pdf - Ricercabile;si;si;si;si;si;si;si;no;si;si;si
+Gallio;VI;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Montebello Vicentino;VI;Veneto;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Valdagno;VI;Veneto;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Bussolengo;VR;Veneto;no;26;;;no;no;no;no;no;no;no;no;no;no;no
+Castel d'Azzano;VR;Veneto;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Cerea;VR;Veneto;no;4;;;no;no;no;no;no;no;no;no;no;no;no
+Erbè;VR;Veneto;si;2;2017-01-18;Pdf - Ricercabile;no;si;si;si;si;si;si;si;si;si;si
+Gazzo Veronese;VR;Veneto;no;2;;;no;no;no;no;no;no;no;no;no;no;no
+Isola della Scala;VR;Veneto;si;1;2018-09-06;Pdf - Immagine;no;si;si;si;si;si;si;no;si;si;no
+Oppeano;VR;Veneto;no;1;;;no;no;no;no;no;no;no;no;no;no;no
+Peschiera del Garda;VR;Veneto;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+San Giovanni Lupatoto;VR;Veneto;no;3;;;no;no;no;no;no;no;no;no;no;no;no
+Sanguinetto;VR;Veneto;no;5;;;no;no;no;no;no;no;no;no;no;no;no
+Verona;VR;Veneto;si;6;2020-09-16;Pdf - Ricercabile;si;si;si;no;si;si;si;si;si;si;si
