@@ -4,6 +4,17 @@ LUISS "Guido Carli" ha permesso a noi studenti, relativamente alle GAP2 Activiti
 
 Il file dashboardlibera.py contiene lo script della dashboard. Per la visualizzazione della dashboard è sufficiente runnare il file nel terminal in seguito al download della repository.
 
+## Contenuto 
+
+Il contenuto della repository vede tutto il necessario per l'esecuzione della dashboard. Dove:
+ - Le varie mappa_(variabile).html, vedono specifiche variabili visualizzate sulla mappa dell'Italia divisa in regioni o province a seconda delle necessità di visualizzazione.
+ - Datasets forniti da LIBERA: aziende-confiscate-anbsc.json, aziende-confiscate-unioncamere.json, opendata-aziendeconfiscate-catalog.json, dataset_rimanDATI_0.csv.
+ - elenco_codici_comuni.json, elenco_codici_comuni.php, elenco_comuni_province.csv, sono stati utilizzati per risalire a sigle di province e per visualizzare sulla mappa.
+ - italy_geo.csv, italy_geo.xlsx, limits_IT_provinces.geojson, limits_IT_regions.geojson. Informazioni necessarie per le coordinate e suddivisioni della mappa. Fonte --> https://github.com/openpolis/geojson-italy/tree/master
+ - province_con_coordinate.csv, missing_provinces.csv, aziende_confiscate_merged.csv, sono datasets creati per la praticità del codice.
+ - Il file pubblicazioni per regione over time.mp4 vede un bar plot race.
+ - requirements.txt contiene le versioni delle librerie per una corretta esecuzione della dashboard.
+
 # Dashboard di Analisi dei Beni Confiscati alle Mafie
 
 ## Pagine della Dashboard
